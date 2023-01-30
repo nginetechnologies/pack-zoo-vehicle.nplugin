@@ -1,0 +1,31 @@
+{
+    "guid": "480c93eb-76ad-2f13-fce4-ae5e5ae43e9b",
+    "source": "../SM_Tractor_Shovel_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "1495b8ad-a83e-2776-b6c5-7ec80610dadd",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Tractor Shovel Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c4a75ce6-9a44-abad-6405-47bcce0feadd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Shovel Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9d1ee8be-1b7b-8816-616e-c24aa9bda512"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "480c93eb-76ad-2f13-fce4-ae5e5ae43e9b"
+    }
+}

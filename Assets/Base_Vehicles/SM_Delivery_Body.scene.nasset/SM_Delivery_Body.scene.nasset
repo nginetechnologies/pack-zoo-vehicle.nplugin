@@ -1,0 +1,31 @@
+{
+    "guid": "8a6fcd04-962c-6390-b4b5-73290ba1e65e",
+    "source": "../SM_Delivery_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "60f3e0c1-eed6-cd80-c5ed-aea084833674",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Delivery Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6f35a5bf-adab-d2c0-020e-acb0caddeb80",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Delivery Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2681ce11-d9b1-9c42-4973-2fdcaee984e1"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8a6fcd04-962c-6390-b4b5-73290ba1e65e"
+    }
+}

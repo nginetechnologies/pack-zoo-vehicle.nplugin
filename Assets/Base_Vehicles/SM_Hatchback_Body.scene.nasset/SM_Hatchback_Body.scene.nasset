@@ -1,0 +1,31 @@
+{
+    "guid": "2a44f82f-5310-d6d3-99b5-ab0b2f0acfbb",
+    "source": "../SM_Hatchback_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "1f9775ce-0630-f5c2-1c0b-90c175cec87c",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Hatchback Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "429f8047-5081-c8cc-80a0-23762f559b8c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hatchback Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8310419d-8012-c002-06d2-e800ba6f1881"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "2a44f82f-5310-d6d3-99b5-ab0b2f0acfbb"
+    }
+}

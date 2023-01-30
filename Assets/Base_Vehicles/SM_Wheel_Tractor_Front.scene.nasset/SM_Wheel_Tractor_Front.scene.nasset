@@ -1,0 +1,31 @@
+{
+    "guid": "a160256e-94f3-f40b-469c-da5d0df6b28e",
+    "source": "../SM_Wheel_Tractor_Front.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "2ac1dc48-c837-403c-2d6b-8e6974b53de5",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wheel Tractor Front"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4bf42542-93d5-7652-c11d-c05bffefe00f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Tractor Front"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f41c9769-c473-fee5-19f4-3e59384ee000"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a160256e-94f3-f40b-469c-da5d0df6b28e"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "guid": "8ae74970-15e2-66c4-d82a-49441be0d64c",
+    "source": "../SM_Wheel_Default.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "c3523918-aa22-4d50-8517-f1b51b6c799d",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wheel Default"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9315ad9f-1d7f-aaa0-e7ac-fd4376f551d6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Default"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e8de6dce-91e0-2332-5e15-e2148b075a5d"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8ae74970-15e2-66c4-d82a-49441be0d64c"
+    }
+}

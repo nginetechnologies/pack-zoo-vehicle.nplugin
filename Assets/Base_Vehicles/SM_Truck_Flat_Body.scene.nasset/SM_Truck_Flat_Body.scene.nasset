@@ -1,0 +1,31 @@
+{
+    "guid": "f518e0df-cdb1-52ba-f0f1-11ac2a313ede",
+    "source": "../SM_Truck_Flat_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "aae28513-0ddc-18db-172b-6eecaca897b6",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Truck Flat Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "32dc159d-623c-0f62-f2c6-e794bdcf00cf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Truck Flat Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d6c73b43-2f5b-b942-cf51-808f8bd89db3"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f518e0df-cdb1-52ba-f0f1-11ac2a313ede"
+    }
+}

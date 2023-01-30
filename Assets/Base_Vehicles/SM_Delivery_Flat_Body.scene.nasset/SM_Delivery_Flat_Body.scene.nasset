@@ -1,0 +1,31 @@
+{
+    "guid": "68c42eac-2ae7-33b9-b2b3-e1ec09ce2d79",
+    "source": "../SM_Delivery_Flat_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d9e674ca-810f-c995-bce9-be57d096f381",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Delivery Flat Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "13869437-b83a-4e43-11b3-9f60d60a6937",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Delivery Flat Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3f8ca2d8-356f-0758-a958-64d984fa5f25"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "68c42eac-2ae7-33b9-b2b3-e1ec09ce2d79"
+    }
+}

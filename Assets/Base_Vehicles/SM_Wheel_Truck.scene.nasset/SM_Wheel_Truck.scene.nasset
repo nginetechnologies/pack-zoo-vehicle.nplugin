@@ -1,0 +1,31 @@
+{
+    "guid": "b338c6cd-408e-701a-7c54-089abb4dd533",
+    "source": "../SM_Wheel_Truck.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "6d9f999d-996a-ddeb-036f-ac97d0a07034",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wheel Truck"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1568a825-393c-9610-e5e7-dde5c0cfe177",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Truck"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e40ff4d9-7564-f001-cb21-0786a3e80bae"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b338c6cd-408e-701a-7c54-089abb4dd533"
+    }
+}

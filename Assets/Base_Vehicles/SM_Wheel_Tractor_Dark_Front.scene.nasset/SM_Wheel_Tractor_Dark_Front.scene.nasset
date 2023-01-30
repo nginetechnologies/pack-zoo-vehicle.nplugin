@@ -1,0 +1,31 @@
+{
+    "guid": "a69d1d5c-7e2b-236a-c72e-b377ce3a3e2d",
+    "source": "../SM_Wheel_Tractor_Dark_Front.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "903c21eb-1bd1-5a32-1835-5865482478b9",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wheel Tractor Dark Front"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2aac1957-c8f2-69f1-e9bf-681041ba8764",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Tractor Dark Front"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "70a21572-c271-5274-f440-5b5a429897ae"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a69d1d5c-7e2b-236a-c72e-b377ce3a3e2d"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "guid": "18ea03f6-e192-1900-67a6-7afc121ff677",
+    "source": "../SM_Wheel_Racing.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a6efc618-7684-9a1c-3c9c-96903e15f3fe",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wheel Racing"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7b217653-e1b5-8b26-5246-f2c2b3c86b67",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Racing"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "770aff77-b844-c6fb-fb6d-2f7c51cc15f5"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "18ea03f6-e192-1900-67a6-7afc121ff677"
+    }
+}
