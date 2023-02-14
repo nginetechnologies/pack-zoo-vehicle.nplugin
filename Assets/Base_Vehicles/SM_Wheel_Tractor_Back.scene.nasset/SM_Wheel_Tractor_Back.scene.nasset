@@ -1,0 +1,35 @@
+{
+    "guid": "f93e60cd-58e8-22b9-ea3b-6943f71f3ad3",
+    "source": "../SM_Wheel_Tractor_Back.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f1d70f2d-4ad2-7686-3eac-42135a5a6116",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wheel Tractor Back"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "74a18c31-41ad-05a9-59fd-3377eca6e1a0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Tractor Back"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9f3de7be-b4da-deb2-73da-208ebdc138d9"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f93e60cd-58e8-22b9-ea3b-6943f71f3ad3"
+    },
+    "dependencies": [
+        "9f3de7be-b4da-deb2-73da-208ebdc138d9"
+    ],
+    "thumbnailGuid": "08eaaefd-3b09-9196-a8be-54fda2dfa009"
+}

@@ -1,0 +1,35 @@
+{
+    "guid": "3755600f-0856-ab46-929a-8242c88ddbfa",
+    "source": "../SM_Ambulance_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4f0503b0-ec7f-24bf-3d18-8a56386a6f10",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Ambulance Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "84fd8fe3-3ca4-e34d-abc3-139d72785546",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ambulance Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a89d9fa0-031b-2c12-df74-2aa4b0ec2ad7"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3755600f-0856-ab46-929a-8242c88ddbfa"
+    },
+    "dependencies": [
+        "a89d9fa0-031b-2c12-df74-2aa4b0ec2ad7"
+    ],
+    "thumbnailGuid": "61194aa6-84f1-eec0-1391-402b4871f2fe"
+}

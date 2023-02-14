@@ -1,0 +1,35 @@
+{
+    "guid": "9111c48a-295c-de6c-32cc-ec2f5fd6f396",
+    "source": "../SM_Wheel_Tractor_Dark_Back.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "50816d76-57d9-4349-775e-ed1844e36cfd",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wheel Tractor Dark Back"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "32c69601-340e-e9be-4c6a-be1c6d433f17",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Tractor Dark Back"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3492c639-a92c-d7a8-7b6c-4e6e12c56ad5"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9111c48a-295c-de6c-32cc-ec2f5fd6f396"
+    },
+    "dependencies": [
+        "3492c639-a92c-d7a8-7b6c-4e6e12c56ad5"
+    ],
+    "thumbnailGuid": "4d6df8fb-e146-b27c-94ad-4721995298eb"
+}

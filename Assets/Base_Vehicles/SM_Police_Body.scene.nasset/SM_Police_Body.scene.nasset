@@ -1,0 +1,35 @@
+{
+    "guid": "ec746bb6-dac7-307f-fcd1-94d86e120bf7",
+    "source": "../SM_Police_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "59c1df0b-24ad-690b-cf24-ca1fa41a38ee",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Police Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b4250c81-e5d5-419a-61d6-2a841bedbac6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Police Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "44a8b88e-34c6-85b9-4fc2-e3a71230ee75"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "ec746bb6-dac7-307f-fcd1-94d86e120bf7"
+    },
+    "dependencies": [
+        "44a8b88e-34c6-85b9-4fc2-e3a71230ee75"
+    ],
+    "thumbnailGuid": "b97c103a-13a7-914b-518b-f629fa7d73d0"
+}

@@ -1,0 +1,35 @@
+{
+    "guid": "4b085fbc-0124-8f15-f714-1728d91d1e2f",
+    "source": "../SM_Delivery_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "09893f7b-8703-0228-aa5d-b238f0421d96",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Delivery Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6b6107b3-55f0-abbc-5304-ea0ef9e4e349",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Delivery Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "455d8ed3-8114-c3a9-e4e7-afff7a76794f"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "4b085fbc-0124-8f15-f714-1728d91d1e2f"
+    },
+    "dependencies": [
+        "455d8ed3-8114-c3a9-e4e7-afff7a76794f"
+    ],
+    "thumbnailGuid": "0aced7bc-ef82-d381-40c0-6cbdefbab597"
+}

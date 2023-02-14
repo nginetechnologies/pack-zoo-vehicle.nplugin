@@ -1,0 +1,35 @@
+{
+    "guid": "3fdb2d06-482f-7f96-697d-5e562b855347",
+    "source": "../SM_Garbage_Truck_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b22d07a9-09db-5943-b472-6b4761c64f77",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Garbage Truck Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ba8d8697-b67f-2011-fd64-163b67cf9da5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Garbage Truck Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6cde26b8-4f72-b98b-4552-c6646abb33a7"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3fdb2d06-482f-7f96-697d-5e562b855347"
+    },
+    "dependencies": [
+        "6cde26b8-4f72-b98b-4552-c6646abb33a7"
+    ],
+    "thumbnailGuid": "2e535017-c3fd-fa74-6c97-f444b199d8ea"
+}

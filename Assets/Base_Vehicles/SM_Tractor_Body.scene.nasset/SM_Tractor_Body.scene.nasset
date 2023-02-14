@@ -1,0 +1,35 @@
+{
+    "guid": "1b7c6c88-8cd3-1849-bdd1-70129e771457",
+    "source": "../SM_Tractor_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3174160f-de7c-2648-cc09-322cb3211505",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Tractor Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c54b0732-8190-273c-27de-36a17d840e86",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5460270c-9d34-0a0f-b659-a7c426df1dda"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "1b7c6c88-8cd3-1849-bdd1-70129e771457"
+    },
+    "dependencies": [
+        "5460270c-9d34-0a0f-b659-a7c426df1dda"
+    ],
+    "thumbnailGuid": "70f66641-30ff-2146-90ad-546d81407fe9"
+}

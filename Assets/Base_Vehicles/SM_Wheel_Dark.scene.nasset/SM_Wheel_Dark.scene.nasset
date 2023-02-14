@@ -1,0 +1,35 @@
+{
+    "guid": "8d3b2f53-0c17-e61d-1ba6-262ca6de75b5",
+    "source": "../SM_Wheel_Dark.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "d62ee55d-891a-db6c-dd47-26c4feefdf27",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wheel Dark"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4525d7b5-7958-2e94-5f58-7145b2a009f0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Dark"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "06b39565-dc9a-d2b7-15af-0a4437d06516"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8d3b2f53-0c17-e61d-1ba6-262ca6de75b5"
+    },
+    "dependencies": [
+        "06b39565-dc9a-d2b7-15af-0a4437d06516"
+    ],
+    "thumbnailGuid": "a6f3bf0a-e041-51c2-6f3a-912abf90d595"
+}

@@ -1,0 +1,35 @@
+{
+    "guid": "da78adc7-a0d3-c5a6-6bff-bef75000748d",
+    "source": "../SM_Sedan_Sports_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4c8b9865-b4f4-e07d-6fb5-58b52a4aa614",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Sedan Sports Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7c1b5fba-9a7e-2358-8f6f-515149a0f6b6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sedan Sports Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c9072a92-de42-9196-cbc4-45163279f8b4"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "da78adc7-a0d3-c5a6-6bff-bef75000748d"
+    },
+    "dependencies": [
+        "c9072a92-de42-9196-cbc4-45163279f8b4"
+    ],
+    "thumbnailGuid": "e5801892-26e0-5092-ec17-5b4a321cdbc3"
+}

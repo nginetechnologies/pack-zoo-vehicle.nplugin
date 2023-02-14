@@ -1,0 +1,35 @@
+{
+    "guid": "bf9438b3-0030-ff74-41cf-a2149bec3bf9",
+    "source": "../SM_SUV_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "413465b7-8261-effd-8500-12e272371b9d",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SUV Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "be147061-1d10-819f-f55b-949e282d3926",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SUV Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "06bcd12f-edd4-31b7-ce2c-763d24736595"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "bf9438b3-0030-ff74-41cf-a2149bec3bf9"
+    },
+    "dependencies": [
+        "06bcd12f-edd4-31b7-ce2c-763d24736595"
+    ],
+    "thumbnailGuid": "b601a566-55ab-9d81-2366-22583ea9b162"
+}

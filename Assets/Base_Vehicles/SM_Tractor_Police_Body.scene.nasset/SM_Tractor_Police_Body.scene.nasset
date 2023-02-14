@@ -1,0 +1,35 @@
+{
+    "guid": "dabd6a27-055c-d38b-f11e-c79188dab70e",
+    "source": "../SM_Tractor_Police_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a0106107-f220-6d3b-5d77-a528b855ef68",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Tractor Police Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "206a4984-15de-ebbe-5632-2c413b5877e4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Police Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5932f6ac-e253-1608-50eb-2c42fc31e376"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "dabd6a27-055c-d38b-f11e-c79188dab70e"
+    },
+    "dependencies": [
+        "5932f6ac-e253-1608-50eb-2c42fc31e376"
+    ],
+    "thumbnailGuid": "8d7372fb-4603-acc1-5dce-66ff9e2bd2b7"
+}

@@ -1,0 +1,35 @@
+{
+    "guid": "be20ca8c-93c2-68a3-04a6-e695848b408b",
+    "source": "../SM_Car_Formula_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8ffc7bfe-8a40-5e80-279f-77cfd5eaa093",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Car Formula Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "702465bb-57e6-b871-627b-f1fc1630988a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Car Formula Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "404dfd73-550a-3c83-2bc1-896d78d0717f"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "be20ca8c-93c2-68a3-04a6-e695848b408b"
+    },
+    "dependencies": [
+        "404dfd73-550a-3c83-2bc1-896d78d0717f"
+    ],
+    "thumbnailGuid": "fd9210c4-f1e0-c708-2dd4-9fbbbf3354b8"
+}

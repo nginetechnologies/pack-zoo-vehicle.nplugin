@@ -1,0 +1,35 @@
+{
+    "guid": "3b55d083-caf1-4cd7-f164-5b391d3f711a",
+    "source": "../SM_Truck_Body.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e6cae190-e34e-5e03-917f-0786a0379d07",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Truck Body"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "834200e8-e178-1b4e-a2f1-1695603f0196",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Truck Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "99a1d90c-17b3-0bee-d1fd-f92e1dab1f61"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3b55d083-caf1-4cd7-f164-5b391d3f711a"
+    },
+    "dependencies": [
+        "99a1d90c-17b3-0bee-d1fd-f92e1dab1f61"
+    ],
+    "thumbnailGuid": "f383d4ff-25c2-03e3-e727-acc95c000ccd"
+}
