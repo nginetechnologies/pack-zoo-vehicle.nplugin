@@ -30,26 +30,82 @@
 				}
 			],
 			"children": [
-				{
-					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-					"instanceGuid": "2dd50df9-fd5e-4ea3-831a-47c56c78145f",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "Wheel Mesh"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "6e13dcfc-7cb5-46cc-94a0-bab5d9f16582",
-						"material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
-					}
-				}
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "37577970-c58a-7441-279a-4f445411ba35",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wheel Dark Plastic Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "2cfc340f-2c46-b37c-35dd-fc9496c04ab2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wheel Dark Plastic"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c618561c-187c-ad48-d8a4-6402dc70342b",
+                                "material_instance": "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "c618561c-187c-ad48-d8a4-6402dc70342b"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "29a742b0-6bde-b0fe-860c-eb9837617a06",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wheel Dark Rubber Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "3e95a646-7a24-95a3-87e3-cb896f60c226",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wheel Dark Rubber"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e2df2bae-cd37-30d1-cd07-6bd326a76280",
+                                "material_instance": "5ea48021-eeee-92fe-01f5-21609fda3414"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e2df2bae-cd37-30d1-cd07-6bd326a76280"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
 			]
 		}
     ],

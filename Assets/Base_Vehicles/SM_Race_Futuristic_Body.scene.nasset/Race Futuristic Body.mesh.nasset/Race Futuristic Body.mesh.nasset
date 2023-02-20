@@ -1,12 +1,11 @@
 {
     "guid": "1f3386cc-cdb6-d351-710a-bd508bbb3b95",
-    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-    "tags": [
-        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-    ],
+    "type_version": 1,
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "ee548a88-4851-1825-d5d3-40366cb56813",
-    "data_components": [],
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -17,258 +16,360 @@
                     "name": "Race Futuristic Body Physics Body"
                 },
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a1e7000e-5c98-75be-95b4-5649e614f8ce"
+                },
+                {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
+                    "type": 0,
+                    "layer": 0,
+                    "maximumAngularVelocity": 2699.9997,
+                    "overriddenMass": 0.0,
+                    "gravityScale": 1.0
                 }
             ],
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "04cd774f-eef4-45dc-5ff5-d609a48ded41",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "2371791a-0888-0563-73b3-35f5b4168ee6"
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Race Futuristic Body Plastic Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "04cd774f-eef4-45dc-5ff5-d609a48ded41"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "3672bb05-f4fe-0c58-f9bf-ea67beefca04",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Race Futuristic Body Plastic"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "2371791a-0888-0563-73b3-35f5b4168ee6",
                                 "material_instance": "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Race Futuristic Body Plastic"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "3672bb05-f4fe-0c58-f9bf-ea67beefca04"
+                                },
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "2371791a-0888-0563-73b3-35f5b4168ee6"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "626e60b2-424d-6ff1-26d0-95531282e67f",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e2cbbb84-0d5a-2604-64e9-593791f64cc1"
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Race Futuristic Body Paint Blue Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "626e60b2-424d-6ff1-26d0-95531282e67f"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "0abfbaf5-17f7-0354-3e60-61a83368531c",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Race Futuristic Body Paint Blue"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "e2cbbb84-0d5a-2604-64e9-593791f64cc1",
                                 "material_instance": "c907d4b1-6e15-5450-f3d4-297ed8d3d78f"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Race Futuristic Body Paint Blue"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "0abfbaf5-17f7-0354-3e60-61a83368531c"
+                                },
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "e2cbbb84-0d5a-2604-64e9-593791f64cc1"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "5e3fd9c5-d32c-f546-6a36-ee71e4aecce7",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f443bf92-e3bc-ed15-80be-9499cb0913e0"
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Race Futuristic Body Default Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "5e3fd9c5-d32c-f546-6a36-ee71e4aecce7"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "093fd521-99ad-9484-c753-90314b2b2a04",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Race Futuristic Body Default"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "f443bf92-e3bc-ed15-80be-9499cb0913e0",
                                 "material_instance": "90228bd9-984b-ec7d-5731-520cba01bee7"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Race Futuristic Body Default"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "093fd521-99ad-9484-c753-90314b2b2a04"
+                                },
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "f443bf92-e3bc-ed15-80be-9499cb0913e0"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "78d2b821-d415-cbe3-4c78-5d04badf0afb",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "6a9a067f-7437-a250-f87c-f01d535eeff2"
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Race Futuristic Body Window Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "78d2b821-d415-cbe3-4c78-5d04badf0afb"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "d1ebe4eb-e47f-3f24-0453-eb60649b2040",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Race Futuristic Body Window"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "6a9a067f-7437-a250-f87c-f01d535eeff2",
                                 "material_instance": "279905d6-22cc-d6bb-ee5b-da18cedb7555"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Race Futuristic Body Window"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "d1ebe4eb-e47f-3f24-0453-eb60649b2040"
+                                },
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "6a9a067f-7437-a250-f87c-f01d535eeff2"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "896f7b58-8be7-ccee-9ce0-ad12c0e6c1db",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e49e01b7-772e-fcc1-07e1-ef7703660b98"
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Race Futuristic Body Rubber Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "896f7b58-8be7-ccee-9ce0-ad12c0e6c1db"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "3951e26f-2f5e-a68e-bef2-1769ad55d593",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Race Futuristic Body Rubber"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "e49e01b7-772e-fcc1-07e1-ef7703660b98",
                                 "material_instance": "5ea48021-eeee-92fe-01f5-21609fda3414"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Race Futuristic Body Rubber"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "3951e26f-2f5e-a68e-bef2-1769ad55d593"
+                                },
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "e49e01b7-772e-fcc1-07e1-ef7703660b98"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "342d865a-f3e0-0b29-5ee0-15395fa47563",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
+                        "comOffset": [
+                            0.0
+                        ]
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "14dacfe7-fdc0-7899-7e1b-0cace83898d9"
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Race Futuristic Body Paint Red Collider"
+                        },
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "342d865a-f3e0-0b29-5ee0-15395fa47563"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "bf55cd6c-46f0-39cf-1f2f-782c8d0c1d29",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Race Futuristic Body Paint Red"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "14dacfe7-fdc0-7899-7e1b-0cace83898d9",
                                 "material_instance": "a388803f-bb5e-d164-f065-5da7ba10501d"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Race Futuristic Body Paint Red"
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "bf55cd6c-46f0-39cf-1f2f-782c8d0c1d29"
+                                },
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "14dacfe7-fdc0-7899-7e1b-0cace83898d9"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 }
             ]
         }
     ],
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "1f3386cc-cdb6-d351-710a-bd508bbb3b95"
-    },
-    "dependencies": [
-        "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5",
-        "2371791a-0888-0563-73b3-35f5b4168ee6",
-        "db5dc618-2cfe-44e9-a319-69c503d090e7",
-        "c907d4b1-6e15-5450-f3d4-297ed8d3d78f",
-        "e2cbbb84-0d5a-2604-64e9-593791f64cc1",
-        "90228bd9-984b-ec7d-5731-520cba01bee7",
-        "f443bf92-e3bc-ed15-80be-9499cb0913e0",
-        "279905d6-22cc-d6bb-ee5b-da18cedb7555",
-        "6a9a067f-7437-a250-f87c-f01d535eeff2",
-        "5ea48021-eeee-92fe-01f5-21609fda3414",
-        "e49e01b7-772e-fcc1-07e1-ef7703660b98",
-        "a388803f-bb5e-d164-f065-5da7ba10501d",
-        "14dacfe7-fdc0-7899-7e1b-0cace83898d9"
-    ]
+    }
 }

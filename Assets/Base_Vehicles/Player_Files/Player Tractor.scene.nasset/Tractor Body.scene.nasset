@@ -9,26 +9,196 @@
 		}
 	],
     "children": [
-		{
-			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-			"instanceGuid": "8093f74e-3377-49a6-afc0-dde8e98dc591",
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Body Mesh"
-				}
-			],
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-				]
-			},
-			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-				"mesh": "cd373011-2378-4b34-a3fc-8e90ecc1d989",
-				"material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
-			}
-		}
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "82802356-adba-fa9e-d8d9-652608ed17f5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Body Paint Blue Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "1c9efc1a-02eb-fe5b-44ed-2d409f876a20",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tractor Body Paint Blue"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "e8c6d38a-3452-9091-9b87-e84e2fd8d4c2",
+                        "material_instance": "c907d4b1-6e15-5450-f3d4-297ed8d3d78f"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "e8c6d38a-3452-9091-9b87-e84e2fd8d4c2"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "c6859de8-0976-50a2-6d44-195819dcf691",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Body Plastic Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "1a785c21-cdc1-63a4-beaf-5f845f23d225",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tractor Body Plastic"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "3f471e9e-2a2e-7937-55e8-ff3221965f64",
+                        "material_instance": "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "3f471e9e-2a2e-7937-55e8-ff3221965f64"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "01e6284c-cb25-20ba-8652-cd77978e065e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Body Window Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "340bf5b0-8ba5-0cf4-487a-815f7be63323",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tractor Body Window"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "a3d19f43-78ce-eff0-4e30-7600665a10a6",
+                        "material_instance": "279905d6-22cc-d6bb-ee5b-da18cedb7555"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "a3d19f43-78ce-eff0-4e30-7600665a10a6"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "57624f5a-45c5-2f7e-0ea6-3b726dab466e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Body Emission Yellow Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "a39943f2-7694-7bd7-6c1d-ac8027201256",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tractor Body Emission Yellow"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "ee905747-90f0-879b-3a88-3924fd81a5ec",
+                        "material_instance": "aad04738-d47c-ea2e-c25b-d4fb0c129efa"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "ee905747-90f0-879b-3a88-3924fd81a5ec"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "d85a11b9-c3ab-a38d-88c7-3b18bd447c62",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Body Default Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "c2c39fa4-749e-cb11-b75a-b8b86efe69f8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Tractor Body Default"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "41d990ce-d968-9235-a3c8-077bd508a562",
+                        "material_instance": "90228bd9-984b-ec7d-5731-520cba01bee7"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "41d990ce-d968-9235-a3c8-077bd508a562"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {

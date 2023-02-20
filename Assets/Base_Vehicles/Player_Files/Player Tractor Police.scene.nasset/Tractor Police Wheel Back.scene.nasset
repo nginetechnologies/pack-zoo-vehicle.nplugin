@@ -30,26 +30,120 @@
 				}
 			],
 			"children": [
-				{
-					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-					"instanceGuid": "2dd50df9-fd5e-4ea3-831a-47c56c78145f",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "Wheel Mesh"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "6e13dcfc-7cb5-46cc-94a0-bab5d9f16582",
-						"material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
-					}
-				}
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "c32cf3d9-a730-7bd4-d4eb-b7a76dd0dd39",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wheel Tractor Dark Back Rubber Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "0d9c4776-2cf5-0b73-1d70-5d58c3fc0b6c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wheel Tractor Dark Back Rubber"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "fcb9a492-0f47-1a5a-349f-846e05806803",
+                                "material_instance": "5ea48021-eeee-92fe-01f5-21609fda3414"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "fcb9a492-0f47-1a5a-349f-846e05806803"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "b6739f03-7234-9025-b297-f3eb3efe1fef",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wheel Tractor Dark Back Paint White Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "4437edcd-80fe-0acd-e192-254a94a58114",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wheel Tractor Dark Back Paint White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3087a301-42e4-62a0-ffd3-d6a99997ca57",
+                                "material_instance": "f7f9a397-a18c-d7d2-716e-bd7e703609cd"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "3087a301-42e4-62a0-ffd3-d6a99997ca57"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "90e1a843-2ad8-bc95-0cca-e299036f6104",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wheel Tractor Dark Back Plastic Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "fbe5a2b8-49c0-b3bf-46ce-81f12d5add83",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wheel Tractor Dark Back Plastic"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7dcb8913-2480-e70f-1075-5b4461b14a7e",
+                                "material_instance": "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7dcb8913-2480-e70f-1075-5b4461b14a7e"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
 			]
 		}
     ],

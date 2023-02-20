@@ -1,37 +1,326 @@
 {
     "guid": "979de79a-7e52-4c00-b735-48398ec81b3f",
+    "type_version": 1,
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "504b03dd-60c4-41f8-bc14-d3dd23c20772",
-	"data_components": [
-		{
-			"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-			"name": "Vehicle Body"
-		}
-	],
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Vehicle Body",
+            "flags": 2
+        }
+    ],
     "children": [
-		{
-			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-			"instanceGuid": "8093f74e-3377-49a6-afc0-dde8e98dc591",
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Body Mesh"
-				}
-			],
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-				]
-			},
-			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-				"mesh": "cd373011-2378-4b34-a3fc-8e90ecc1d989",
-				"material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
-			}
-		}
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "d0958340-427e-9862-378f-ab643bb0a356",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Police Body Paint White Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "ea99b557-f41a-9991-0d96-de1da9be403f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Police Body Paint White"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "3b8136d3-8ace-b924-e3ce-2437a0e77bae",
+                        "material_instance": "f7f9a397-a18c-d7d2-716e-bd7e703609cd"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "3b8136d3-8ace-b924-e3ce-2437a0e77bae"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "641af98a-34b6-3db3-d573-f4f59ac07847",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Police Body Plastic Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "f35bd13a-e70c-9d0a-a74c-6c035dd80a45",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Police Body Plastic"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "fb7fb2d4-0045-565c-6919-1f700b11a216",
+                        "material_instance": "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "fb7fb2d4-0045-565c-6919-1f700b11a216"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "c7d3b8f2-823f-155c-9b92-ec4b4404849a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Police Body Default Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "a0a6113b-4e58-3163-d1ca-7728780ad3d7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Police Body Default"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "5cd13004-e34b-6cd4-3b5d-c8dd38acc894",
+                        "material_instance": "90228bd9-984b-ec7d-5731-520cba01bee7"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "5cd13004-e34b-6cd4-3b5d-c8dd38acc894"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "aabcd391-0164-8a2f-6cab-b20998e1a541",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Police Body Emission Yellow Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "fcc56c43-2d0b-cd6e-a203-e173c4ec4f2d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Police Body Emission Yellow"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "98a0f817-16aa-4cdc-e28e-d46978496e9d",
+                        "material_instance": "aad04738-d47c-ea2e-c25b-d4fb0c129efa"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "98a0f817-16aa-4cdc-e28e-d46978496e9d"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "6d10576a-2aa8-9fb7-9766-ce342e6efbdc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Police Body Emission Red Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "83d616cc-15db-4d98-9552-82796abe7517",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Police Body Emission Red"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "8a3f9387-9276-28e8-619a-e1d469dd2c74",
+                        "material_instance": "1c93ad7b-1ec6-c81b-6c41-d7e60efb97a5"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "8a3f9387-9276-28e8-619a-e1d469dd2c74"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "4bed3095-c183-5c64-a7e0-9520dd44faeb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Police Body Rubber Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "aecd7a80-9429-ce71-3d61-7d6132ca0bd2",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Police Body Rubber"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "a99873f1-79d9-0a06-fab7-aafead275fa5",
+                        "material_instance": "5ea48021-eeee-92fe-01f5-21609fda3414"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "a99873f1-79d9-0a06-fab7-aafead275fa5"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "45d6895f-e042-e364-194c-249174a4f440",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Police Body Window Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "90ddde7a-e4f9-38ec-dd07-a6723579dd04",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Police Body Window"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "7922dd0b-1be9-e00c-ca1e-bb773882a9fa",
+                        "material_instance": "279905d6-22cc-d6bb-ee5b-da18cedb7555"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "7922dd0b-1be9-e00c-ca1e-bb773882a9fa"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        },
+        {
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "54888c83-060d-4ba0-c746-8949660970c0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Police Body Emission Blue Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "903669bd-fa44-f3b0-96d7-1c410334761d",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Police Body Emission Blue"
+                        }
+                    ],
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
+                    },
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "30313502-7d3d-d607-c83a-b732ad3d34f9",
+                        "material_instance": "488d284b-dd84-f3f9-2cd0-38a7a20312e7"
+                    }
+                }
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "30313502-7d3d-d607-c83a-b732ad3d34f9"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
+        }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-		"scene": "4e2f1cc7-2312-45aa-b0a4-6287a06c1202"
-	}
+        "scene": "979de79a-7e52-4c00-b735-48398ec81b3f"
+    }
 }

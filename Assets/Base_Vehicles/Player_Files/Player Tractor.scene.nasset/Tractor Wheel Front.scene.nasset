@@ -30,26 +30,82 @@
 				}
 			],
 			"children": [
-				{
-					"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-					"instanceGuid": "2dd50df9-fd5e-4ea3-831a-47c56c78145f",
-					"data_components": [
-						{
-							"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-							"name": "Wheel Mesh"
-						}
-					],
-					"9f750482-b822-4d4b-be6a-9c135c614328": {
-						"stages": [
-							"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-							"dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-						]
-					},
-					"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-						"mesh": "6e13dcfc-7cb5-46cc-94a0-bab5d9f16582",
-						"material_instance": "7962add3-c63a-6075-42d3-517305ba3b0b"
-					}
-				}
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "2a2a3531-62f1-6d79-ae6a-4e5f7728f424",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wheel Tractor Front Rubber Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "8b9f5d7f-121e-5a4e-c054-61531f39d67c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wheel Tractor Front Rubber"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e0828124-3583-feeb-5540-1c9fd2a4fec1",
+                                "material_instance": "5ea48021-eeee-92fe-01f5-21609fda3414"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e0828124-3583-feeb-5540-1c9fd2a4fec1"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "30cc7387-08b1-4509-d450-cc7e741613f8",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wheel Tractor Front Paint Yellow Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "af5f37c8-de77-a36c-80a1-833733c94cb4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Wheel Tractor Front Paint Yellow"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4be5032c-4228-82bd-139d-0e061c0e5582",
+                                "material_instance": "8569fa6d-633a-68af-60b6-938c4b3c4cd8"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "4be5032c-4228-82bd-139d-0e061c0e5582"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
 			]
 		}
     ],
