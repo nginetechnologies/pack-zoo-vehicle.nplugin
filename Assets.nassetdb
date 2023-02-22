@@ -1384,7 +1384,10 @@
     "5da19f69-1b44-44db-89fe-f157a35c3d2b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Delivery Flat.scene.nasset/Delivery Flat Body.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Delivery Flat.scene.nasset/Delivery Flat Body.scene.nasset",
+        "dependencies": [
+            "84d1663b-0703-43d6-7c9f-5cb68d03e225"
+        ]
     },
     "5e94d725-0147-261d-50d0-82483b6fddf1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2199,7 +2202,7 @@
     "9c7795b8-8023-4473-b54c-6607826d3c81": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Delivery.scene.nasset/Delivery Wheel.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Truck Wheel.scene.nasset",
         "dependencies": [
             "6e9dea1f-72aa-2d17-896a-5af0a3aa6397"
         ]
@@ -2848,11 +2851,6 @@
             "1f3386cc-cdb6-d351-710a-bd508bbb3b95"
         ]
     },
-    "d5b1134d-8880-48fa-b8ad-99724af1cacc": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Delivery Flat.scene.nasset/Delivery Flat Wheel.scene.nasset"
-    },
     "d8b1c9d3-f89d-44d6-b138-d57a5cfbb319": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3238,7 +3236,14 @@
     "f08efa76-5fcb-4b15-b259-da0c1f28261e": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Delivery Flat.scene.nasset/Delivery Flat Main.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Delivery Flat.scene.nasset/Delivery Flat Main.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "5da19f69-1b44-44db-89fe-f157a35c3d2b",
+            "9c7795b8-8023-4473-b54c-6607826d3c81"
+        ]
     },
     "f153aad3-2a1c-90d4-84ce-9eefa70903e9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3414,7 +3419,7 @@
     },
     "fa6d7ef7-f515-4fd6-9568-17162e75082e": {
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Base_Vehicles/Player_Files/Wheel.physmat.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Wheel.physmat.nasset"
     },
     "faf09fcf-d4fe-6fa6-a707-9e6c10746d68": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
