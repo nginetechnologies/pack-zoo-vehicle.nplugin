@@ -2,7 +2,7 @@
     "guid": "56afe3d5-af32-45dd-9637-c33facc98e5b",
     "type_version": 1,
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "274a0aea-93b9-4782-9dab-0b8feae2cd66",
+    "instanceGuid": "798433c0-add3-47ef-a554-4d7dfd3615ec",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 4096.0
     },
@@ -38,10 +38,6 @@
                     "name": "Vehicle Controller"
                 },
                 {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8"
-                },
-                {
                     "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83"
                 }
             ],
@@ -72,10 +68,6 @@
                             "name": "Camera"
                         },
                         {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "4ca540b9-a73b-41c2-b993-0a546cb6cb62"
-                        },
-                        {
                             "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
                             "rotationSpeed": 4.0,
                             "positionSpeed": 16.0,
@@ -86,6 +78,14 @@
                 {
                     "typeGuid": "2fe2589c-79f4-4456-84e2-7b57af139e49",
                     "instanceGuid": "6bc2ecd6-fdc9-5bae-a5c7-5cc849bffc88",
+                    "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                        "type": 2,
+                        "layer": 1,
+                        "body_flags": 4,
+                        "maximumAngularVelocity": 2700.0,
+                        "overriddenMass": 1000.0,
+                        "gravityScale": 2.5
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -94,21 +94,8 @@
                             ]
                         },
                         {
-                            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                            "type": 2,
-                            "layer": 1,
-                            "body_flags": 4,
-                            "maximumAngularVelocity": 2699.9997,
-                            "overriddenMass": 1600.0,
-                            "gravityScale": 2.5
-                        },
-                        {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Vehicle Base"
-                        },
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "6bc2ecd6-fdc9-5bae-a5c7-5cc849bffc88"
                         }
                     ],
                     "children": [
@@ -133,42 +120,6 @@
                                 {
                                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                                     "templateInstanceGuid": "6723b792-04f1-490e-820a-6c326aa01858"
-                                }
-                            ]
-                        },
-                        {
-                            "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
-                            "instanceGuid": "adeed443-251c-4ae7-b176-49f122eb4a8b",
-                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
-                                "comOffset": [
-                                    0.0,
-                                    0.0,
-                                    -0.6999
-                                ]
-                            },
-                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                "position": [
-                                    0.0,
-                                    0.0,
-                                    0.4
-                                ]
-                            },
-                            "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
-                                "half_extent": [
-                                    0.7,
-                                    1.6,
-                                    0.2
-                                ]
-                            },
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Vehicle Base Collider"
-                                },
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "adeed443-251c-4ae7-b176-49f122eb4a8b"
                                 }
                             ]
                         },
@@ -205,10 +156,6 @@
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                                     "name": "Back Axle"
-                                },
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "bbe183a1-c57a-49b6-98e8-12ec35eb82e6"
                                 }
                             ],
                             "children": [
@@ -226,10 +173,6 @@
                                         {
                                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                                             "name": "Back Right"
-                                        },
-                                        {
-                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "51a55ee8-788e-5f95-d1f6-c8df7b1d251c"
                                         }
                                     ],
                                     "children": [
@@ -281,10 +224,6 @@
                                         {
                                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                                             "name": "Back Left"
-                                        },
-                                        {
-                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "928f185d-1c66-c0e6-eb5d-427f88364621"
                                         }
                                     ],
                                     "children": [
@@ -332,10 +271,6 @@
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                                     "name": "Front Axle"
-                                },
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "056b8b53-0f19-89b4-b1fe-60c06a6a4a54"
                                 }
                             ],
                             "children": [
@@ -353,10 +288,6 @@
                                         {
                                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                                             "name": "Front Right Wheel"
-                                        },
-                                        {
-                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "57037de2-b4c6-e66d-997d-4a9cc3460842"
                                         }
                                     ],
                                     "children": [
@@ -413,10 +344,6 @@
                                         {
                                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                                             "name": "Front Left Wheel"
-                                        },
-                                        {
-                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "056b8b53-0f19-89b4-b1fe-60c06a6a4a54"
                                         }
                                     ],
                                     "children": [
