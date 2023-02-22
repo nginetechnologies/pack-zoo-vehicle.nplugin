@@ -7,7 +7,7 @@
         "radius": 4096.0
     },
     "dependencies": [
-        "4b085fbc-0124-8f15-f714-1728d91d1e2f",
+        "13ac9ea6-cb77-497e-9a4d-4ac9fcd2540e",
         "9c7795b8-8023-4473-b54c-6607826d3c81"
     ],
     "tags": [
@@ -182,7 +182,7 @@
                                 }
                             ],
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "4b085fbc-0124-8f15-f714-1728d91d1e2f"
+                                "scene": "13ac9ea6-cb77-497e-9a4d-4ac9fcd2540e"
                             }
                         },
                         {
