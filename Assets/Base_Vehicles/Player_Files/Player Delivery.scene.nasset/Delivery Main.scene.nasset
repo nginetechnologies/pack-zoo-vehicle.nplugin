@@ -83,7 +83,7 @@
                         "layer": 1,
                         "body_flags": 4,
                         "maximumAngularVelocity": 2700.0,
-                        "overriddenMass": 1000.0,
+                        "overriddenMass": 1600.0,
                         "gravityScale": 2.5
                     },
                     "data_components": [
@@ -142,8 +142,8 @@
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
-                                    -1.2999,
-                                    -0.2
+                                    -0.6,
+                                    0.35
                                 ]
                             },
                             "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
@@ -257,8 +257,8 @@
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
-                                    1.2999,
-                                    -0.2
+                                    1.0,
+                                    0.35
                                 ]
                             },
                             "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
