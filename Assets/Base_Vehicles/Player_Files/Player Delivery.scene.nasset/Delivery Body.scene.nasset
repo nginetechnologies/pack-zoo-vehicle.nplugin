@@ -2,12 +2,12 @@
     "guid": "13ac9ea6-cb77-497e-9a4d-4ac9fcd2540e",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "504b03dd-60c4-41f8-bc14-d3dd23c20772",
-	"data_components": [
-		{
-			"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-			"name": "Vehicle Body"
-		}
-	],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Vehicle Body"
+        }
+    ],
     "children": [
         {
             "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
@@ -316,6 +316,6 @@
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-		"scene": "4e2f1cc7-2312-45aa-b0a4-6287a06c1202"
-	}
+        "scene": "13ac9ea6-cb77-497e-9a4d-4ac9fcd2540e"
+    }
 }
