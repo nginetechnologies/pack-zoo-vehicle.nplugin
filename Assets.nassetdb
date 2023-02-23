@@ -828,11 +828,6 @@
             "6cde26b8-4f72-b98b-4552-c6646abb33a7"
         ]
     },
-    "3ff12db1-236b-46ba-b80e-d659e5065d55": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Truck Flat.scene.nasset/Truck Flat Wheel.scene.nasset"
-    },
     "4006694c-007c-8051-0a33-e8b46f4bb22b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1968,7 +1963,15 @@
     "8cd01ade-2a9d-46ae-bd48-e6e9eba32e5b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Truck Flat.scene.nasset/Truck Flat Main.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Truck Flat.scene.nasset/Truck Flat Main.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "ebecb310-1348-482d-9be8-1690eae35ef4",
+            "3c22f71e-6d84-46e3-9c30-84d300c8fd30",
+            "d06d9f30-1593-4fd6-8417-8c2481a676b2"
+        ]
     },
     "8d3b2f53-0c17-e61d-1ba6-262ca6de75b5": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -3115,7 +3118,10 @@
     "ebecb310-1348-482d-9be8-1690eae35ef4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Truck Flat.scene.nasset/Truck Flat Body.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Truck Flat.scene.nasset/Truck Flat Body.scene.nasset",
+        "dependencies": [
+            "99a1d90c-17b3-0bee-d1fd-f92e1dab1f61"
+        ]
     },
     "ec746bb6-dac7-307f-fcd1-94d86e120bf7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
