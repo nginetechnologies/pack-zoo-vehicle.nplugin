@@ -8,7 +8,8 @@
     },
     "dependencies": [
         "13ac9ea6-cb77-497e-9a4d-4ac9fcd2540e",
-        "9c7795b8-8023-4473-b54c-6607826d3c81"
+        "3c22f71e-6d84-46e3-9c30-84d300c8fd30",
+        "d06d9f30-1593-4fd6-8417-8c2481a676b2"
     ],
     "tags": [
         "c642f003-618a-45dc-a031-b16f61473103"
@@ -137,8 +138,8 @@
                             }
                         },
                         {
-                            "typeGuid": "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13",
-                            "instanceGuid": "bbe183a1-c57a-49b6-98e8-12ec35eb82e6",
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "afa85638-6d9b-4cac-9bf6-45b96b061c20",
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
@@ -146,114 +147,13 @@
                                     0.35
                                 ]
                             },
-                            "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
-                                "powerRatio": 0.3,
-                                "powerSplit": 0.5,
-                                "differentialRatio": 3.42,
-                                "antiRollBarStiffness": 500.0
-                            },
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Back Axle"
-                                }
-                            ],
-                            "children": [
-                                {
-                                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                                    "instanceGuid": "51a55ee8-788e-5f95-d1f6-c8df7b1d251c",
-                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                        "position": [
-                                            0.7,
-                                            0.0,
-                                            0.0
-                                        ]
-                                    },
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "name": "Back Right"
-                                        }
-                                    ],
-                                    "children": [
-                                        {
-                                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
-                                            "instanceGuid": "282e0123-bcdb-201e-3d6a-318af130d101",
-                                            "data_components": [
-                                                {
-                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                                    "templateInstanceGuid": "a79d3730-fcf6-411c-95ea-0646fd13837e"
-                                                }
-                                            ],
-                                            "children": [
-                                                {
-                                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-                                                    "instanceGuid": "a1410ba7-910a-415b-879c-addf9bef7749",
-                                                    "data_components": [
-                                                        {
-                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                                            "templateInstanceGuid": "1031979b-5547-4431-8d8c-69cc7df89cc3"
-                                                        }
-                                                    ],
-                                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                                        "rotation": [
-                                                            180.0,
-                                                            -90.0,
-                                                            0.0
-                                                        ]
-                                                    }
-                                                }
-                                            ]
-                                        }
-                                    ],
-                                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                        "scene": "9c7795b8-8023-4473-b54c-6607826d3c81"
-                                    }
-                                },
-                                {
-                                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                                    "instanceGuid": "928f185d-1c66-c0e6-eb5d-427f88364621",
-                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                        "position": [
-                                            -0.7,
-                                            0.0,
-                                            0.0
-                                        ]
-                                    },
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "name": "Back Left"
-                                        }
-                                    ],
-                                    "children": [
-                                        {
-                                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
-                                            "instanceGuid": "61cbc956-e8bc-cda1-b9db-d8c170e8df7d",
-                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                                "rotation": [
-                                                    0.0,
-                                                    0.0,
-                                                    0.0
-                                                ]
-                                            },
-                                            "data_components": [
-                                                {
-                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                                    "templateInstanceGuid": "a79d3730-fcf6-411c-95ea-0646fd13837e"
-                                                }
-                                            ]
-                                        }
-                                    ],
-                                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                        "scene": "9c7795b8-8023-4473-b54c-6607826d3c81"
-                                    }
-                                }
-                            ]
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "3c22f71e-6d84-46e3-9c30-84d300c8fd30"
+                            }
                         },
                         {
-                            "typeGuid": "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13",
-                            "instanceGuid": "056b8b53-0f19-89b4-b1fe-60c06a6a4a54",
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "1837df91-a71e-49d4-b475-99df9c05a9c5",
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
@@ -261,120 +161,9 @@
                                     0.35
                                 ]
                             },
-                            "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
-                                "powerRatio": 0.6999,
-                                "powerSplit": 0.5,
-                                "differentialRatio": 3.42,
-                                "antiRollBarStiffness": 500.0
-                            },
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Front Axle"
-                                }
-                            ],
-                            "children": [
-                                {
-                                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                                    "instanceGuid": "57037de2-b4c6-e66d-997d-4a9cc3460842",
-                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                        "position": [
-                                            0.7,
-                                            0.0,
-                                            0.0
-                                        ]
-                                    },
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "name": "Front Right Wheel"
-                                        }
-                                    ],
-                                    "children": [
-                                        {
-                                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
-                                            "instanceGuid": "0a655f95-0782-44dc-b62e-a588c309ac1c",
-                                            "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
-                                                "maxSteeringAngle": 30.0,
-                                                "maxHandbrakeTorque": 0.0,
-                                                "sidewaysGrip": 3.0
-                                            },
-                                            "data_components": [
-                                                {
-                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                                    "templateInstanceGuid": "a79d3730-fcf6-411c-95ea-0646fd13837e"
-                                                }
-                                            ],
-                                            "children": [
-                                                {
-                                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-                                                    "instanceGuid": "fb33fd85-7700-4bc6-95a7-f0e9af39c7f8",
-                                                    "data_components": [
-                                                        {
-                                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                                            "templateInstanceGuid": "1031979b-5547-4431-8d8c-69cc7df89cc3"
-                                                        }
-                                                    ],
-                                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                                        "rotation": [
-                                                            180.0,
-                                                            -90.0,
-                                                            0.0
-                                                        ]
-                                                    }
-                                                }
-                                            ]
-                                        }
-                                    ],
-                                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                        "scene": "9c7795b8-8023-4473-b54c-6607826d3c81"
-                                    }
-                                },
-                                {
-                                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                                    "instanceGuid": "056b8b53-0f19-89b4-b1fe-60c06a6a4a54",
-                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                        "position": [
-                                            -0.7,
-                                            0.0,
-                                            0.0
-                                        ]
-                                    },
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "name": "Front Left Wheel"
-                                        }
-                                    ],
-                                    "children": [
-                                        {
-                                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
-                                            "instanceGuid": "235331ba-1371-4778-a1f1-38e08dfada3f",
-                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                                "rotation": [
-                                                    0.0,
-                                                    0.0,
-                                                    0.0
-                                                ]
-                                            },
-                                            "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
-                                                "maxSteeringAngle": 30.0,
-                                                "maxHandbrakeTorque": 0.0,
-                                                "sidewaysGrip": 3.0
-                                            },
-                                            "data_components": [
-                                                {
-                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                                    "templateInstanceGuid": "a79d3730-fcf6-411c-95ea-0646fd13837e"
-                                                }
-                                            ]
-                                        }
-                                    ],
-                                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                        "scene": "9c7795b8-8023-4473-b54c-6607826d3c81"
-                                    }
-                                }
-                            ]
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "d06d9f30-1593-4fd6-8417-8c2481a676b2"
+                            }
                         }
                     ]
                 }
