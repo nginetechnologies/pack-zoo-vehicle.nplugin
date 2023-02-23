@@ -447,7 +447,10 @@
     "25dbb0b8-3133-49b1-9a19-a92652704591": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor.scene.nasset/Tractor Body.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor.scene.nasset/Tractor Body.scene.nasset",
+        "dependencies": [
+            "5460270c-9d34-0a0f-b659-a7c426df1dda"
+        ]
     },
     "26f3746d-8f84-42ea-98b5-fa3fd9b97607": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -1463,7 +1466,15 @@
     "69444d0c-a019-4a14-af44-b4ba8d81ef5d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor.scene.nasset/Tractor Main.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor.scene.nasset/Tractor Main.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "25dbb0b8-3133-49b1-9a19-a92652704591",
+            "9c7efe5d-fc9d-4be6-8552-f4d9dd699fd1",
+            "a7ea75e5-380c-4370-8562-9bd7312235bf"
+        ]
     },
     "6978018a-dfbb-cf74-0473-ed7a50fe4744": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2169,6 +2180,14 @@
             "6e9dea1f-72aa-2d17-896a-5af0a3aa6397"
         ]
     },
+    "9c7efe5d-fc9d-4be6-8552-f4d9dd699fd1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Tractor Back Axle.scene.nasset",
+        "dependencies": [
+            "f6fba8e3-dd16-4209-b298-74745ed52112"
+        ]
+    },
     "9e3f2116-5c72-686a-3350-5b76c8819d05": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Base_Vehicles/SM_Truck_Flat_Body.scene.nasset/Thumbnails/SM_Truck_Flat_Body.scene.nasset.tex.nasset"
@@ -2290,7 +2309,18 @@
     "a7d5d860-8dd9-4a0e-bdbf-8d0b1172cf88": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor.scene.nasset/Tractor Wheel Front.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Tractor Wheel Front.scene.nasset",
+        "dependencies": [
+            "4dd00bb6-36d9-8a8a-ed37-d75099cd09a9"
+        ]
+    },
+    "a7ea75e5-380c-4370-8562-9bd7312235bf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Tractor Front Axle.scene.nasset",
+        "dependencies": [
+            "a7d5d860-8dd9-4a0e-bdbf-8d0b1172cf88"
+        ]
     },
     "a89d9fa0-031b-2c12-df74-2aa4b0ec2ad7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3291,7 +3321,10 @@
     "f6fba8e3-dd16-4209-b298-74745ed52112": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor.scene.nasset/Tractor Wheel Back.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Tractor Wheel Back.scene.nasset",
+        "dependencies": [
+            "9f3de7be-b4da-deb2-73da-208ebdc138d9"
+        ]
     },
     "f7c26609-3a53-8d15-f1c8-1dffe9d70732": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",

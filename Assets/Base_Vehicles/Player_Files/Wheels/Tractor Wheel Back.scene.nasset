@@ -1,0 +1,141 @@
+{
+    "guid": "f6fba8e3-dd16-4209-b298-74745ed52112",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "cca0f701-c677-433f-912f-fbb6baab5754",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Tractor Wheel Back"
+        }
+    ],
+    "dependencies": [
+        "9f3de7be-b4da-deb2-73da-208ebdc138d9"
+    ],
+    "children": [
+        {
+            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+            "instanceGuid": "d3ea15fc-6548-4b0f-808f-1d530fd0d15b",
+            "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                "maxSteeringAngle": 0.0,
+                "radius": 0.425,
+                "width": 0.5,
+                "minSuspensionLength": 0.1,
+                "maxSuspensionLength": 0.2,
+                "suspensionStiffness": 1.1,
+                "suspensionDamping": 0.15,
+                "forwardGrip": 5.0,
+                "sidewaysGrip": 5.0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "9fc075ce-9bb9-46d9-a4b0-f325cf84b59b",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wheel Mesh Wrapper"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "rotation": [
+                            0.0,
+                            -90.0,
+                            0.0
+                        ]
+                    },
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "82a1445b-89f3-4338-96f9-00a824d90902",
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "9f3de7be-b4da-deb2-73da-208ebdc138d9"
+                            },
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "7650249e-3bf1-41a4-aa27-84efa777b098",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Wheel Tractor Physics Body"
+                                        },
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "7569fac0-c227-4d21-e46c-ffc8566fd764"
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "disabled": true
+                                    },
+                                    "children": [
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "84ee5f9b-f585-4534-a02b-923ffa8751f6",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Wheel Tractor Back Paint Yellow Collider"
+                                                },
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "0263a9a2-b708-96b6-dc3c-0614c55c15f1"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "disabled": true
+                                            }
+                                        },
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "1e0df58c-89ec-463d-8982-1ba5d86ce6d6",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Wheel Tractor Back Plastic Collider"
+                                                },
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "6aeac83c-529f-9e69-41bc-0e4a63028a8d"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "disabled": true
+                                            }
+                                        },
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "a5ec87a6-2f00-4404-a235-fc1315850a9d",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Wheel Tractor Back Rubber Collider"
+                                                },
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "0e7db26c-9ec8-644a-4be9-6fc266fee4f5"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "disabled": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "f6fba8e3-dd16-4209-b298-74745ed52112"
+    }
+}

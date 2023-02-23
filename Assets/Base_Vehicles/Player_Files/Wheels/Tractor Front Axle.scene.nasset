@@ -1,0 +1,138 @@
+{
+    "guid": "a7ea75e5-380c-4370-8562-9bd7312235bf",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e37273cb-3e6a-49ed-898a-1342f2c79f56",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Axle"
+        }
+    ],
+    "dependencies": [
+        "a7d5d860-8dd9-4a0e-bdbf-8d0b1172cf88"
+    ],
+    "children": [
+        {
+            "typeGuid": "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13",
+            "instanceGuid": "8ebd8a80-3ef8-4c8e-9a21-2ba3fefa8b52",
+            "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
+                "powerRatio": 0.6999,
+                "powerSplit": 0.5,
+                "differentialRatio": 3.42,
+                "antiRollBarStiffness": 500.0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Axle"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "6e627dc0-dde5-458b-b149-da93bc26d646",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.45,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Right Wheel"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                            "instanceGuid": "a91471be-8662-4051-a29b-4e5e0f59a088",
+                            "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                                "maxSteeringAngle": 30.0,
+                                "maxHandbrakeTorque": 0.0,
+                                "sidewaysGrip": 3.0
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "3dff50e2-ff9f-46c0-9675-2689f9d9a8b5"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "fb1759c8-fc57-491f-9e4f-0878e3b2b716",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "f878f6ad-8752-41f9-b845-71a8c9fe1435"
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "rotation": [
+                                            180.0,
+                                            90.0,
+                                            0.0
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "a7d5d860-8dd9-4a0e-bdbf-8d0b1172cf88"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "739a467a-d348-4b46-819c-441c1f7b0dd5",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -0.45,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Front Left Wheel"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                            "instanceGuid": "ddeba97b-a652-4268-bd7b-a3ad079cf6c6",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "rotation": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ]
+                            },
+                            "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                                "maxSteeringAngle": 30.0,
+                                "maxHandbrakeTorque": 0.0,
+                                "sidewaysGrip": 3.0
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "3dff50e2-ff9f-46c0-9675-2689f9d9a8b5"
+                                }
+                            ]
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "a7d5d860-8dd9-4a0e-bdbf-8d0b1172cf88"
+                    }
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "a7ea75e5-380c-4370-8562-9bd7312235bf"
+    }
+}
