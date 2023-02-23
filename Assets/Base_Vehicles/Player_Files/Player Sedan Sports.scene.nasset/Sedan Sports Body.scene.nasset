@@ -1,283 +1,48 @@
 {
     "guid": "1507dceb-50fb-4e56-a79c-68f72eba82ec",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "504b03dd-60c4-41f8-bc14-d3dd23c20772",
-	"data_components": [
-		{
-			"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-			"name": "Vehicle Body"
-		}
-	],
+    "instanceGuid": "50710834-d3f6-4cba-b5fe-90b4d30f0de7",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Vehicle Body"
+        }
+    ],
+    "dependencies": [
+        "c9072a92-de42-9196-cbc4-45163279f8b4"
+    ],
     "children": [
         {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "f1587978-583c-1869-59bd-a7e904875df2",
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2e53cac4-e5c7-4fd1-bc68-b90b557b7570",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sedan Sports Body Plastic Collider"
+                    "name": "Sedan Sports Body"
                 }
             ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c9072a92-de42-9196-cbc4-45163279f8b4"
+            },
             "children": [
                 {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "bd9d3a12-4b8d-5e46-2ce5-c42d6180f9e3",
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "d0eaea13-3a53-4bfe-b983-88514755ba0c",
                     "data_components": [
                         {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Sedan Sports Body Plastic"
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "39938a16-5b0e-2bd4-be4a-2e168b3248d3"
                         }
                     ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "b9309f05-ada7-fa34-bf94-b28ca8fed2ae",
-                        "material_instance": "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5"
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "disabled": true
                     }
                 }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "b9309f05-ada7-fa34-bf94-b28ca8fed2ae"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "01d11fc1-23c4-4f3f-7b88-574df3678c95",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sedan Sports Body Rubber Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "564f592a-9655-f0bf-9943-600b25d245a2",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Sedan Sports Body Rubber"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "40dcaa3c-447c-62f7-4a9a-aa848f5a228d",
-                        "material_instance": "5ea48021-eeee-92fe-01f5-21609fda3414"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "40dcaa3c-447c-62f7-4a9a-aa848f5a228d"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "b1cab21a-acbf-f59f-4052-6594c4cee93d",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sedan Sports Body Paint Red Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "c2d981b5-178f-1299-f8de-d13b96945d8b",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Sedan Sports Body Paint Red"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "ccd229a8-ffa4-cf53-b7f1-96c09e652f68",
-                        "material_instance": "a388803f-bb5e-d164-f065-5da7ba10501d"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "ccd229a8-ffa4-cf53-b7f1-96c09e652f68"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "172a9c8e-ff2f-2c9f-1235-d4d1bc1cf660",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sedan Sports Body Default Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "7b36cb75-62da-cc7d-9d76-10c3bf58843d",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Sedan Sports Body Default"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "a8ee3f89-35cd-1f91-d418-7303936fe205",
-                        "material_instance": "90228bd9-984b-ec7d-5731-520cba01bee7"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "a8ee3f89-35cd-1f91-d418-7303936fe205"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "1063835a-f04d-ef02-5bb8-d95cb07ed75e",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sedan Sports Body Window Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "1e64f8eb-966d-ff78-1665-8d82e7d6875a",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Sedan Sports Body Window"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "7348ceab-d8b8-e800-a9e7-9e766ff3913d",
-                        "material_instance": "279905d6-22cc-d6bb-ee5b-da18cedb7555"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "7348ceab-d8b8-e800-a9e7-9e766ff3913d"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "aaeeec08-36e7-cb1c-a7c6-c3915520cace",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sedan Sports Body Emission Red Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "4ccad7c8-e453-b46e-2f8c-6b675b2bcb65",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Sedan Sports Body Emission Red"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "4afe7deb-1a5c-4583-2418-76de49034c63",
-                        "material_instance": "1c93ad7b-1ec6-c81b-6c41-d7e60efb97a5"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "4afe7deb-1a5c-4583-2418-76de49034c63"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "8345cc68-8780-6ec0-9f9f-277189c623a4",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Sedan Sports Body Emission Yellow Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "039a4eba-4680-0130-d300-4dece9a04fd8",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Sedan Sports Body Emission Yellow"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "008cd95d-8761-a682-bfd4-7553ef6410dc",
-                        "material_instance": "aad04738-d47c-ea2e-c25b-d4fb0c129efa"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "008cd95d-8761-a682-bfd4-7553ef6410dc"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
+            ]
         }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-		"scene": "4e2f1cc7-2312-45aa-b0a4-6287a06c1202"
-	}
+        "scene": "1507dceb-50fb-4e56-a79c-68f72eba82ec"
+    }
 }

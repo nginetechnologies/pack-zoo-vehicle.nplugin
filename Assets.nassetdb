@@ -229,7 +229,10 @@
     "1507dceb-50fb-4e56-a79c-68f72eba82ec": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Sedan Sports.scene.nasset/Sedan Sports Body.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Sedan Sports.scene.nasset/Sedan Sports Body.scene.nasset",
+        "dependencies": [
+            "c9072a92-de42-9196-cbc4-45163279f8b4"
+        ]
     },
     "151c780b-0cc6-d91b-40c1-4783844eab5b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -683,6 +686,14 @@
         "dependencies": [
             "d5310ac6-179d-eb1e-83de-3126690c7469",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "353e15ff-d176-4338-8c2d-c221381f6385": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Car Wheel.scene.nasset",
+        "dependencies": [
+            "4719faca-8357-0e5a-ba52-7aa848ee42fa"
         ]
     },
     "35db71e7-295c-28b7-1766-7d3bf19e81f0": {
@@ -1959,11 +1970,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "8b164169-43e3-4eff-86cb-d8ca261c2a6b": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Sedan Sports.scene.nasset/Sedan Sports Wheel.scene.nasset"
-    },
     "8c269626-a8b6-a668-446e-933561cf70fe": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2190,6 +2196,14 @@
         "path": "Assets/Base_Vehicles/Player_Files/Wheels/Tractor Back Axle.scene.nasset",
         "dependencies": [
             "f6fba8e3-dd16-4209-b298-74745ed52112"
+        ]
+    },
+    "9c83e4cc-e799-4d43-aa58-a89a2d9f504f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Car Back Axle.scene.nasset",
+        "dependencies": [
+            "353e15ff-d176-4338-8c2d-c221381f6385"
         ]
     },
     "9e3f2116-5c72-686a-3350-5b76c8819d05": {
@@ -2850,7 +2864,15 @@
     "d8b1c9d3-f89d-44d6-b138-d57a5cfbb319": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Sedan Sports.scene.nasset/Sedan Sports Main.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Sedan Sports.scene.nasset/Sedan Sports Main.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "1507dceb-50fb-4e56-a79c-68f72eba82ec",
+            "9c83e4cc-e799-4d43-aa58-a89a2d9f504f",
+            "fc849d68-ab79-497d-9f84-193a039bcec6"
+        ]
     },
     "d8b6d53b-34aa-8a90-0cfa-31f5f9ac5803": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3429,6 +3451,14 @@
     "fbf9ef78-1c16-3dff-e5db-872858bffc92": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Buggy Body.mtli.nasset.tex.nasset"
+    },
+    "fc849d68-ab79-497d-9f84-193a039bcec6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Car Front Axle.scene.nasset",
+        "dependencies": [
+            "353e15ff-d176-4338-8c2d-c221381f6385"
+        ]
     },
     "fcb9a492-0f47-1a5a-349f-846e05806803": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
