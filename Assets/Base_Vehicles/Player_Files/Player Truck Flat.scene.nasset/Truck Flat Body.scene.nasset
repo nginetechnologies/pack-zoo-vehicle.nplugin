@@ -9,7 +9,7 @@
         }
     ],
     "dependencies": [
-        "99a1d90c-17b3-0bee-d1fd-f92e1dab1f61"
+        "64d690bc-2627-750f-703d-d68aa2e72b4e"
     ],
     "children": [
         {
@@ -18,11 +18,11 @@
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Truck Body"
+                    "name": "Truck Flat Body"
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "99a1d90c-17b3-0bee-d1fd-f92e1dab1f61"
+                "scene": "64d690bc-2627-750f-703d-d68aa2e72b4e"
             },
             "children": [
                 {
@@ -31,7 +31,7 @@
                     "data_components": [
                         {
                             "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "978ee2ca-6c6e-9e09-8a6f-aa166eed6d4b"
+                            "templateInstanceGuid": "0eee74f0-a132-0c45-6523-ea0fce81662b"
                         }
                     ],
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
