@@ -14,10 +14,7 @@
     "017573fa-1971-7bd8-a88e-504396b2d23d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Body.mtli.nasset",
-        "thumbnail": "fbf9ef78-1c16-3dff-e5db-872858bffc92",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
+        "thumbnail": "fbf9ef78-1c16-3dff-e5db-872858bffc92"
     },
     "018f00d9-a343-9059-d5a8-6220afe4c5d1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -32,15 +29,11 @@
         ]
     },
     "0274ab8c-e277-718f-66d3-95ce3a4ba43b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Bumper.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "934f49a1-254e-b635-e2f9-55ec5854d9e4",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "0294f0ba-12f6-49e2-b9b1-081c05af1709": {
@@ -214,7 +207,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "90228bd9-984b-ec7d-5731-520cba01bee7",
+            "beeca426-a340-009a-b704-ebd3fdd42cc7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -275,11 +268,6 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Base_Vehicles/Player_Files/Player Hatchback.scene.nasset/Hatchback Main.scene.nasset"
-    },
-    "1a266795-572f-4fee-a18f-c00f0d8bb1f6": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Ambulance.scene.nasset/Ambulance Wheel.scene.nasset"
     },
     "1af5061a-ee4c-89aa-d618-6080b4cef823": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -344,25 +332,7 @@
     "1f3386cc-cdb6-d351-710a-bd508bbb3b95": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/SM_Race_Futuristic_Body.scene.nasset/Race Futuristic Body.mesh.nasset/Race Futuristic Body.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5",
-            "2371791a-0888-0563-73b3-35f5b4168ee6",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7",
-            "c907d4b1-6e15-5450-f3d4-297ed8d3d78f",
-            "e2cbbb84-0d5a-2604-64e9-593791f64cc1",
-            "90228bd9-984b-ec7d-5731-520cba01bee7",
-            "f443bf92-e3bc-ed15-80be-9499cb0913e0",
-            "279905d6-22cc-d6bb-ee5b-da18cedb7555",
-            "6a9a067f-7437-a250-f87c-f01d535eeff2",
-            "5ea48021-eeee-92fe-01f5-21609fda3414",
-            "e49e01b7-772e-fcc1-07e1-ef7703660b98",
-            "a388803f-bb5e-d164-f065-5da7ba10501d",
-            "14dacfe7-fdc0-7899-7e1b-0cace83898d9"
-        ]
+        "path": "Assets/Base_Vehicles/SM_Race_Futuristic_Body.scene.nasset/Race Futuristic Body.mesh.nasset/Race Futuristic Body.mesh.nasset"
     },
     "1fd2d07d-7f6a-efdf-6309-aa790a0ad591": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -479,15 +449,11 @@
         "path": "Assets/Base_Vehicles/Player_Files/Player Formula.scene.nasset/Formula Wheel.scene.nasset"
     },
     "270fe1fd-ca7e-b15f-2511-c7daa1d58ee8": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/Kart Wheel.mesh.nasset/Kart Wheel Indigo 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "421a0dce-1878-161b-3e36-03e822b4a0a2",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "279905d6-22cc-d6bb-ee5b-da18cedb7555": {
@@ -518,10 +484,7 @@
     "2ab4cf93-518a-faf3-d0e9-8f8d7b523803": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/SM_Kart_Wheel.scene.nasset",
-        "dependencies": [
-            "fdc92366-be95-7c16-6f3c-5e979954fbe8"
-        ]
+        "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/SM_Kart_Wheel.scene.nasset"
     },
     "2b21eead-e239-a483-6e29-389e89207005": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -541,15 +504,11 @@
         ]
     },
     "2e22d4a6-781c-e024-f4c4-3e7633394847": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Rubber.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "be561030-6cf1-02f0-f42b-ba9bb36c3abe",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "2e535017-c3fd-fa74-6c97-f444b199d8ea": {
@@ -660,15 +619,11 @@
         ]
     },
     "329d4574-8991-022b-fb5e-0fed1f06bd9b": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/Kart Wheel.mesh.nasset/Kart Wheel Orange 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "b9a48ecc-5e98-a1ae-9397-6d2d19700c74",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "3431ec96-9835-7b9a-9cee-87b6be8cf260": {
@@ -717,7 +672,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "a388803f-bb5e-d164-f065-5da7ba10501d",
+            "d5310ac6-179d-eb1e-83de-3126690c7469",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -822,6 +777,14 @@
         "dependencies": [
             "f7f9a397-a18c-d7d2-716e-bd7e703609cd",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "3c22f71e-6d84-46e3-9c30-84d300c8fd30": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Truck Back Axle.scene.nasset",
+        "dependencies": [
+            "9c7795b8-8023-4473-b54c-6607826d3c81"
         ]
     },
     "3d0f9761-bd69-e49b-e31a-d1a126dfdd8c": {
@@ -942,10 +905,7 @@
     "421a0dce-1878-161b-3e36-03e822b4a0a2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Indigo 500.mtli.nasset",
-        "thumbnail": "e3250881-c6b1-4d74-61da-0b96c0841a81",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
+        "thumbnail": "e3250881-c6b1-4d74-61da-0b96c0841a81"
     },
     "421fcad2-5b23-f778-864c-0ea21e11c3f2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1130,7 +1090,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "8569fa6d-633a-68af-60b6-938c4b3c4cd8",
+            "8dd7b980-3b53-ba36-5bd8-f11eb4b83c9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1316,7 +1276,15 @@
     "573e65f2-5095-449b-ae77-e410b2239673": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Ambulance.scene.nasset/Ambulance Main.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Ambulance.scene.nasset/Ambulance Main.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "f7f2ccaa-3c45-474e-ad06-57550118019c",
+            "3c22f71e-6d84-46e3-9c30-84d300c8fd30",
+            "d06d9f30-1593-4fd6-8417-8c2481a676b2"
+        ]
     },
     "57aead93-52b7-6386-8b9b-a37bf41beef7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1644,15 +1612,11 @@
         "path": "Assets/Base_Vehicles/SM_Delivery_Flat_Body.scene.nasset/Thumbnails/SM_Delivery_Flat_Body.scene.nasset.tex.nasset"
     },
     "728afa22-6236-b131-245a-9e4bcbe01168": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "8657718d-15dd-b206-c024-cc53f192c6f5",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "7348ceab-d8b8-e800-a9e7-9e766ff3913d": {
@@ -1683,7 +1647,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "8569fa6d-633a-68af-60b6-938c4b3c4cd8",
+            "8dd7b980-3b53-ba36-5bd8-f11eb4b83c9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1889,15 +1853,11 @@
         ]
     },
     "84c4863d-a9d4-c267-255b-f61869e4902a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/Buggy Float Wheel.mesh.nasset/Buggy Float Wheel Buggy Rubber.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "be561030-6cf1-02f0-f42b-ba9bb36c3abe",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "84d1663b-0703-43d6-7c9f-5cb68d03e225": {
@@ -1936,10 +1896,7 @@
     "8657718d-15dd-b206-c024-cc53f192c6f5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Frame.mtli.nasset",
-        "thumbnail": "c30b46ad-5c9f-2ea4-205f-7207c3a75917",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
+        "thumbnail": "c30b46ad-5c9f-2ea4-205f-7207c3a75917"
     },
     "86687a0a-81dd-ad34-c06d-741009df2dc1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1961,10 +1918,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/SM_Buggy_Wheel.scene.nasset",
-        "thumbnail": "faf09fcf-d4fe-6fa6-a707-9e6c10746d68",
-        "dependencies": [
-            "ebb84771-101e-7bda-4267-3688c201699f"
-        ]
+        "thumbnail": "faf09fcf-d4fe-6fa6-a707-9e6c10746d68"
     },
     "89272ed6-d1e3-d7e6-c733-fcfd090db998": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2083,10 +2037,7 @@
     "934f49a1-254e-b635-e2f9-55ec5854d9e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Bumper.mtli.nasset",
-        "thumbnail": "817377a7-6e3b-4c5f-6848-e3b8de1be5db",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
+        "thumbnail": "817377a7-6e3b-4c5f-6848-e3b8de1be5db"
     },
     "936b3112-98ef-8cb2-07ba-02bc795103bd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2285,10 +2236,7 @@
     "a3d9db97-f807-c2d0-01b6-28f9fafaaf2e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Rim.mtli.nasset",
-        "thumbnail": "c4c6b77c-3622-ff28-0a43-0fb91a30b2e4",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
+        "thumbnail": "c4c6b77c-3622-ff28-0a43-0fb91a30b2e4"
     },
     "a3f176b4-c556-4320-a0b2-0f5bb971dab9": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2484,7 +2432,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "8569fa6d-633a-68af-60b6-938c4b3c4cd8",
+            "8dd7b980-3b53-ba36-5bd8-f11eb4b83c9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -2524,7 +2472,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "8569fa6d-633a-68af-60b6-938c4b3c4cd8",
+            "8dd7b980-3b53-ba36-5bd8-f11eb4b83c9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -2547,10 +2495,7 @@
     "b9a48ecc-5e98-a1ae-9397-6d2d19700c74": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Orange 500.mtli.nasset",
-        "thumbnail": "fbbd215e-a796-45b2-f52f-71f28bd7d206",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
+        "thumbnail": "fbbd215e-a796-45b2-f52f-71f28bd7d206"
     },
     "ba4f2d89-9657-4d5a-8706-493203252b2d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2574,10 +2519,7 @@
     "be561030-6cf1-02f0-f42b-ba9bb36c3abe": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Rubber.mtli.nasset",
-        "thumbnail": "4fca276e-f61b-5d45-76c0-235d4a1a1887",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
+        "thumbnail": "4fca276e-f61b-5d45-76c0-235d4a1a1887"
     },
     "bf46af13-b59f-6a75-c389-072ef194e690": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2618,15 +2560,11 @@
         "path": "Assets/Base_Vehicles/Player_Files/Player Hatchback.scene.nasset/Hatchback Body.scene.nasset"
     },
     "c48bde56-fba4-3262-ecd7-3f5f31611258": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Body.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "017573fa-1971-7bd8-a88e-504396b2d23d",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "c4c6b77c-3622-ff28-0a43-0fb91a30b2e4": {
@@ -2718,7 +2656,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5",
+            "de18d720-1932-453a-bee0-cf56bb196d4d",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -2767,15 +2705,11 @@
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Thumbnails/SM_Buggy_Body.scene.nasset.tex.nasset"
     },
     "cd8fa1c6-8df2-0388-38c4-61a2718ec023": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/Buggy Float Wheel.mesh.nasset/Buggy Float Wheel Buggy Rim.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "a3d9db97-f807-c2d0-01b6-28f9fafaaf2e",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ceb5e0d3-7704-1bc0-fad4-c65bd6ef1e82": {
@@ -2800,6 +2734,14 @@
         "dependencies": [
             "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d06d9f30-1593-4fd6-8417-8c2481a676b2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Truck Front Axle.scene.nasset",
+        "dependencies": [
+            "9c7795b8-8023-4473-b54c-6607826d3c81"
         ]
     },
     "d0ada05a-9a8f-4d91-9d3f-442256935f27": {
@@ -2884,10 +2826,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/SM_Buggy_Body.scene.nasset",
-        "thumbnail": "cd30afa5-6663-626e-f0d6-b308acfb267d",
-        "dependencies": [
-            "f7c26609-3a53-8d15-f1c8-1dffe9d70732"
-        ]
+        "thumbnail": "cd30afa5-6663-626e-f0d6-b308acfb267d"
     },
     "d96bb636-6080-5522-10f8-6a888c619ce5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3148,7 +3087,7 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
         "dependencies": [
-            "279905d6-22cc-d6bb-ee5b-da18cedb7555",
+            "68c166b0-ca34-bd32-a61a-e646c4d7cb94",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -3158,13 +3097,6 @@
         "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/Buggy Float Wheel.mesh.nasset/Buggy Float Wheel.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "a3d9db97-f807-c2d0-01b6-28f9fafaaf2e",
-            "cd8fa1c6-8df2-0388-38c4-61a2718ec023",
-            "be561030-6cf1-02f0-f42b-ba9bb36c3abe",
-            "84c4863d-a9d4-c267-255b-f61869e4902a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ebecb310-1348-482d-9be8-1690eae35ef4": {
@@ -3341,23 +3273,15 @@
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "8657718d-15dd-b206-c024-cc53f192c6f5",
-            "728afa22-6236-b131-245a-9e4bcbe01168",
-            "934f49a1-254e-b635-e2f9-55ec5854d9e4",
-            "0274ab8c-e277-718f-66d3-95ce3a4ba43b",
-            "017573fa-1971-7bd8-a88e-504396b2d23d",
-            "c48bde56-fba4-3262-ecd7-3f5f31611258",
-            "be561030-6cf1-02f0-f42b-ba9bb36c3abe",
-            "2e22d4a6-781c-e024-f4c4-3e7633394847",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "f7f2ccaa-3c45-474e-ad06-57550118019c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Ambulance.scene.nasset/Ambulance Body.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Ambulance.scene.nasset/Ambulance Body.scene.nasset",
+        "dependencies": [
+            "a89d9fa0-031b-2c12-df74-2aa4b0ec2ad7"
+        ]
     },
     "f7f9a397-a18c-d7d2-716e-bd7e703609cd": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3471,13 +3395,6 @@
         "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/Kart Wheel.mesh.nasset/Kart Wheel.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "421a0dce-1878-161b-3e36-03e822b4a0a2",
-            "270fe1fd-ca7e-b15f-2511-c7daa1d58ee8",
-            "b9a48ecc-5e98-a1ae-9397-6d2d19700c74",
-            "329d4574-8991-022b-fb5e-0fed1f06bd9b",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "fdcb8f04-39a1-06bb-7178-67dfaadea0e1": {
