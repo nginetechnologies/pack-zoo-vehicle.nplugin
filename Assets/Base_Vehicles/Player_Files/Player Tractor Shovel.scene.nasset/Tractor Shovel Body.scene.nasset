@@ -1,207 +1,48 @@
 {
     "guid": "d0ada05a-9a8f-4d91-9d3f-442256935f27",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "504b03dd-60c4-41f8-bc14-d3dd23c20772",
-	"data_components": [
-		{
-			"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-			"name": "Vehicle Body"
-		}
-	],
+    "instanceGuid": "1bb64206-145a-4016-a624-1603e8e47e61",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Vehicle Body"
+        }
+    ],
+    "dependencies": [
+        "749200b4-e04f-8ad4-7349-1e9e5a39c5a1"
+    ],
     "children": [
         {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "31f646be-941a-dc5d-a914-3f12cd6b56c7",
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "40362f07-a32a-4805-9092-4c4a98a24703",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tractor Shovel Body Plastic Collider"
+                    "name": "Tractor Body"
                 }
             ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "749200b4-e04f-8ad4-7349-1e9e5a39c5a1"
+            },
             "children": [
                 {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "3de0a8a4-4015-d2aa-95e6-1841db28d139",
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "533682d3-539e-4e4d-880b-2e3ae465ca85",
                     "data_components": [
                         {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Tractor Shovel Body Plastic"
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "c523a7d9-ed01-afd8-0c56-05482176a037"
                         }
                     ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "8ea138e7-49be-8b8e-b2e7-540728b51020",
-                        "material_instance": "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5"
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "disabled": true
                     }
                 }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "8ea138e7-49be-8b8e-b2e7-540728b51020"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "ba75f310-8e57-689e-71df-b0411a074484",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tractor Shovel Body Window Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "4cc8b892-8512-2326-60a8-d6ae32c06014",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Tractor Shovel Body Window"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "bf46af13-b59f-6a75-c389-072ef194e690",
-                        "material_instance": "279905d6-22cc-d6bb-ee5b-da18cedb7555"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "bf46af13-b59f-6a75-c389-072ef194e690"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "f8de36f7-b2e0-9509-3c36-df56caf5dedf",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tractor Shovel Body Paint Yellow Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "5cedba2d-7557-90b8-c7f7-1edecfdfcb84",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Tractor Shovel Body Paint Yellow"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "b7b2de39-45fe-59cd-b146-e0b8459c2d20",
-                        "material_instance": "8dd7b980-3b53-ba36-5bd8-f11eb4b83c9f"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "b7b2de39-45fe-59cd-b146-e0b8459c2d20"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "ef925bf5-3553-d44b-f263-607be48fa953",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tractor Shovel Body Default Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "21359424-fe7e-9c69-e94f-2b8f3110da32",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Tractor Shovel Body Default"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "57aead93-52b7-6386-8b9b-a37bf41beef7",
-                        "material_instance": "90228bd9-984b-ec7d-5731-520cba01bee7"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "57aead93-52b7-6386-8b9b-a37bf41beef7"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "6a75237f-ca9a-a81b-7123-bea2e4d1c91f",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Tractor Shovel Body Emission Yellow Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "72bc1bc3-6956-fd12-da1b-75c4e8150216",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Tractor Shovel Body Emission Yellow"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "aa255fa6-4903-007a-962f-f6fc4dbee927",
-                        "material_instance": "aad04738-d47c-ea2e-c25b-d4fb0c129efa"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "aa255fa6-4903-007a-962f-f6fc4dbee927"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
+            ]
         }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-		"scene": "4e2f1cc7-2312-45aa-b0a4-6287a06c1202"
-	}
+        "scene": "d0ada05a-9a8f-4d91-9d3f-442256935f27"
+    }
 }
