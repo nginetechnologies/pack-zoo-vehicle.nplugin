@@ -1,0 +1,141 @@
+{
+    "guid": "9c7795b8-8023-4473-b54c-6607826d3c81",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "504b03dd-60c4-41f8-bc14-d3dd23c20772",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Wheel"
+        }
+    ],
+    "dependencies": [
+        "6e9dea1f-72aa-2d17-896a-5af0a3aa6397"
+    ],
+    "children": [
+        {
+            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+            "instanceGuid": "a79d3730-fcf6-411c-95ea-0646fd13837e",
+            "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
+                "maxSteeringAngle": 0.0,
+                "radius": 0.30,
+                "width": 0.25,
+                "minSuspensionLength": 0.1,
+                "maxSuspensionLength": 0.2,
+                "suspensionStiffness": 1.1,
+                "suspensionDamping": 0.15,
+                "forwardGrip": 5.0,
+                "sidewaysGrip": 5.0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Collider"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "1031979b-5547-4431-8d8c-69cc7df89cc3",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Wheel Mesh Wrapper"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "rotation": [
+                            0.0,
+                            90.0,
+                            0.0
+                        ]
+                    },
+                    "children": [
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "2814d4a1-73e5-4c01-a4a8-def2aa978d26",
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "6e9dea1f-72aa-2d17-896a-5af0a3aa6397"
+                            },
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "62450387-68da-4453-8b6c-8ab183136c23",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                            "name": "Wheel Truck Physics Body"
+                                        },
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "652083cb-7aa0-0501-2748-a63d27047295"
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "disabled": true
+                                    },
+                                    "children": [
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "2b3e75cf-7963-496f-b4b3-d97a06277896",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Wheel Truck Rubber Collider"
+                                                },
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "13a181e6-c444-3c94-5065-ef3599ed9d3c"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "disabled": true
+                                            }
+                                        },
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "737294ad-040c-489e-b18a-210b207f4f05",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Wheel Truck Default Collider"
+                                                },
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "35f4c442-93a1-fdd2-48d2-3a42d0bf2da3"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "disabled": true
+                                            }
+                                        },
+                                        {
+                                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                                            "instanceGuid": "5408e97e-f90b-4f99-aca9-685ad55cc2a9",
+                                            "data_components": [
+                                                {
+                                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                                    "name": "Wheel Truck Plastic Collider"
+                                                },
+                                                {
+                                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                                    "templateInstanceGuid": "e9a0dcbb-a4f3-8748-b589-f86f42f5f97c"
+                                                }
+                                            ],
+                                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                                "disabled": true
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9c7795b8-8023-4473-b54c-6607826d3c81"
+    }
+}
