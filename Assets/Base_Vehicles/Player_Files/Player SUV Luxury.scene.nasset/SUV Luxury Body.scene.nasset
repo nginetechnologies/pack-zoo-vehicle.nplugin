@@ -1,283 +1,48 @@
 {
     "guid": "ad2d8e9f-87c4-4746-bedb-ea87330d1c65",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "504b03dd-60c4-41f8-bc14-d3dd23c20772",
-	"data_components": [
-		{
-			"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-			"name": "Vehicle Body"
-		}
-	],
+    "instanceGuid": "c9079b64-2fb1-4f58-b5ed-d8a6138893f7",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Vehicle Body"
+        }
+    ],
+    "dependencies": [
+        "7f83343d-5c8a-b7c7-0347-665d5c5f3252"
+    ],
     "children": [
         {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "a4dc6a7a-d321-8699-49df-8b8481765285",
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ecbd6aa7-e9bb-4da4-bc4b-0c9d5719d192",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SUV Luxury Body Plastic Collider"
+                    "name": "SUV Body"
                 }
             ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7f83343d-5c8a-b7c7-0347-665d5c5f3252"
+            },
             "children": [
                 {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "070d5203-803a-12c0-0505-832d488323db",
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "57e714a4-83ec-4477-9616-6b9863f1b35e",
                     "data_components": [
                         {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SUV Luxury Body Plastic"
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "7e529e4d-d17c-cdac-1457-1608130a43f8"
                         }
                     ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "d03d0363-c2b7-cc18-7ac8-7d579129ba0f",
-                        "material_instance": "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5"
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "disabled": true
                     }
                 }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "d03d0363-c2b7-cc18-7ac8-7d579129ba0f"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "afc55e32-a587-d751-53cc-11cbdf4d9ed2",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SUV Luxury Body Rubber Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "4b0811ab-a8c0-562f-3767-d1e0822d0467",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SUV Luxury Body Rubber"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "f36e41fc-7dc8-1090-4987-9bbd6fbc518b",
-                        "material_instance": "5ea48021-eeee-92fe-01f5-21609fda3414"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "f36e41fc-7dc8-1090-4987-9bbd6fbc518b"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "f34a9ddc-5ed0-8628-a754-dea59812dffc",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SUV Luxury Body Default Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "5a13ef35-5c3b-49a4-7384-bb69da0a156b",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SUV Luxury Body Default"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "259f260b-86c5-0d9b-0b21-b2115ffc00e9",
-                        "material_instance": "90228bd9-984b-ec7d-5731-520cba01bee7"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "259f260b-86c5-0d9b-0b21-b2115ffc00e9"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "0edef4eb-b990-4029-b974-3d1dc3a12595",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SUV Luxury Body Paint Yellow Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "edb1010c-c365-518d-c407-aab445aa0ec2",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SUV Luxury Body Paint Yellow"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "7423dbec-0a9f-94ed-56f4-5e3314e3912e",
-                        "material_instance": "8dd7b980-3b53-ba36-5bd8-f11eb4b83c9f"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "7423dbec-0a9f-94ed-56f4-5e3314e3912e"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "9b4bf8f4-8bdb-0a95-7451-44de20dc115b",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SUV Luxury Body Emission Red Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "1a3ce039-85d6-f72f-c3fe-1614fa47df87",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SUV Luxury Body Emission Red"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "cae60f27-4c2e-270c-6877-833fba5b2e1a",
-                        "material_instance": "1c93ad7b-1ec6-c81b-6c41-d7e60efb97a5"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "cae60f27-4c2e-270c-6877-833fba5b2e1a"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "ed051d10-cab4-72cd-e90e-ca909fa0cfda",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SUV Luxury Body Emission Yellow Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "a311e0b1-78ff-27d8-f10d-c933194c80c8",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SUV Luxury Body Emission Yellow"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "e4f8f392-a4e5-0e47-6e61-3f83a0927826",
-                        "material_instance": "aad04738-d47c-ea2e-c25b-d4fb0c129efa"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "e4f8f392-a4e5-0e47-6e61-3f83a0927826"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "0a8e613b-4471-1943-2078-0b7c687d6f8a",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "SUV Luxury Body Window Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "80830026-940e-5f6c-4ecf-520fb1104895",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "SUV Luxury Body Window"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "24b8c1b6-5f35-0a4b-78f1-d019e8ee05a6",
-                        "material_instance": "279905d6-22cc-d6bb-ee5b-da18cedb7555"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "24b8c1b6-5f35-0a4b-78f1-d019e8ee05a6"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
+            ]
         }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-		"scene": "4e2f1cc7-2312-45aa-b0a4-6287a06c1202"
-	}
+        "scene": "ad2d8e9f-87c4-4746-bedb-ea87330d1c65"
+    }
 }
