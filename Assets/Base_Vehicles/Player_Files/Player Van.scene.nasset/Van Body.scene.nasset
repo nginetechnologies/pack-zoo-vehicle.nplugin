@@ -2,320 +2,47 @@
     "guid": "aaa12cdf-ed7b-4f0c-95ae-e3e61bc2192f",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "504b03dd-60c4-41f8-bc14-d3dd23c20772",
-	"data_components": [
-		{
-			"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-			"name": "Vehicle Body"
-		}
-	],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Vehicle Body"
+        }
+    ],
+    "dependencies": [
+        "1af5061a-ee4c-89aa-d618-6080b4cef823"
+    ],
     "children": [
         {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "8026b4f9-5a1a-a363-aefa-3616a55eaed2",
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3d1b3a5a-12e5-4d40-a640-34292d0197ff",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Van Body Plastic Collider"
+                    "name": "SUV Body"
                 }
             ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1af5061a-ee4c-89aa-d618-6080b4cef823"
+            },
             "children": [
                 {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "e2a9eab1-3ed1-5426-9d7b-2514bf44fc3c",
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "c7e041b5-b389-4393-9e90-6c49e6d35f29",
                     "data_components": [
                         {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Van Body Plastic"
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "5f37fbd6-91af-38a6-2369-6674a5885c9e"
                         }
                     ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "3d0f9761-bd69-e49b-e31a-d1a126dfdd8c",
-                        "material_instance": "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5"
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "disabled": true
                     }
                 }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "3d0f9761-bd69-e49b-e31a-d1a126dfdd8c"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "10d18c4e-ebf4-73aa-a4ca-df34415c2251",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Van Body Rubber Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "eb8cd2f4-fdc5-b275-5560-c6dda162b713",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Van Body Rubber"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "908cab00-489e-d2c9-e50a-6c53aafa9fda",
-                        "material_instance": "5ea48021-eeee-92fe-01f5-21609fda3414"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "908cab00-489e-d2c9-e50a-6c53aafa9fda"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "bf30e27d-9e8c-0866-671f-93d93b8422d3",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Van Body Emission Yellow Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "891b128b-a92e-897f-097a-c499cf95bec5",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Van Body Emission Yellow"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "0ee1048b-617b-730d-ed4c-c6ed96911f8a",
-                        "material_instance": "aad04738-d47c-ea2e-c25b-d4fb0c129efa"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "0ee1048b-617b-730d-ed4c-c6ed96911f8a"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "1ce5302c-48d3-d95d-8958-3dcab780602a",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Van Body Paint Blue Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "b4062673-1dfd-fb42-f277-5c2874d3bb63",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Van Body Paint Blue"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "24e4876e-0afc-8ef6-e553-543dec70775c",
-                        "material_instance": "c907d4b1-6e15-5450-f3d4-297ed8d3d78f"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "24e4876e-0afc-8ef6-e553-543dec70775c"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "fbb62766-9d84-de89-0889-b5e346367102",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Van Body Default Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "6bf6b336-abee-63c4-f031-e417a218f071",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Van Body Default"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "839c115c-307f-1b95-b8e2-02e9a72fa83c",
-                        "material_instance": "90228bd9-984b-ec7d-5731-520cba01bee7"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "839c115c-307f-1b95-b8e2-02e9a72fa83c"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "a6b28f88-7be4-506b-0330-43ade1383844",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Van Body Emission Red Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "84716b8a-9225-e727-af09-3ba8c88699b4",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Van Body Emission Red"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "45930aca-3c52-4828-675f-c92ce033a7aa",
-                        "material_instance": "1c93ad7b-1ec6-c81b-6c41-d7e60efb97a5"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "45930aca-3c52-4828-675f-c92ce033a7aa"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "b7df1608-3656-b92c-e12d-5f2d5b933b70",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Van Body Window Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "87664994-3437-4866-de7c-4243390c92b2",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Van Body Window"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "b4c2a1e6-0814-30e9-8cf9-ec3bc2134664",
-                        "material_instance": "279905d6-22cc-d6bb-ee5b-da18cedb7555"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "b4c2a1e6-0814-30e9-8cf9-ec3bc2134664"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
-        },
-        {
-            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "25ae6e7e-12ca-610f-cc00-bdaa2b883320",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Van Body Aluminum Collider"
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "7886e47a-c75c-184c-fc5e-d1df6beaba52",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Van Body Aluminum"
-                        }
-                    ],
-                    "9f750482-b822-4d4b-be6a-9c135c614328": {
-                        "stages": [
-                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                        ]
-                    },
-                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "f90690f3-95b5-8bbe-1bb0-6cad89370faa",
-                        "material_instance": "2c308b30-46f2-1a10-818e-11fc74ee963a"
-                    }
-                }
-            ],
-            "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "f90690f3-95b5-8bbe-1bb0-6cad89370faa"
-            },
-            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-            }
+            ]
         }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-		"scene": "4e2f1cc7-2312-45aa-b0a4-6287a06c1202"
-	}
+        "scene": "aaa12cdf-ed7b-4f0c-95ae-e3e61bc2192f"
+    }
 }

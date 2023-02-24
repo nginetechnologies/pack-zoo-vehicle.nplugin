@@ -752,11 +752,6 @@
             "161f8829-8e35-39f3-c3c4-5fb1f9e1a466"
         ]
     },
-    "39295d92-07e5-4bd9-86b4-bfebe0e37fd3": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Van.scene.nasset/Van Wheel.scene.nasset"
-    },
     "3a419419-709c-0969-2e06-bc377fb7a63e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2437,7 +2432,10 @@
     "aaa12cdf-ed7b-4f0c-95ae-e3e61bc2192f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Van.scene.nasset/Van Body.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Van.scene.nasset/Van Body.scene.nasset",
+        "dependencies": [
+            "1af5061a-ee4c-89aa-d618-6080b4cef823"
+        ]
     },
     "aad04738-d47c-ea2e-c25b-d4fb0c129efa": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2817,7 +2815,15 @@
     "d16e897b-666d-4faa-858b-651c403b82cc": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Van.scene.nasset/Van Main.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Van.scene.nasset/Van Main.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "aaa12cdf-ed7b-4f0c-95ae-e3e61bc2192f",
+            "9c83e4cc-e799-4d43-aa58-a89a2d9f504f",
+            "fc849d68-ab79-497d-9f84-193a039bcec6"
+        ]
     },
     "d2a1129c-2f86-2aae-1afb-db10fd8ec8ea": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
