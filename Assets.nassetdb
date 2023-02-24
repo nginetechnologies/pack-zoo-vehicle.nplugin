@@ -2109,7 +2109,10 @@
     "979de79a-7e52-4c00-b735-48398ec81b3f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Police.scene.nasset/Police Body.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Police.scene.nasset/Police Body.scene.nasset",
+        "dependencies": [
+            "44a8b88e-34c6-85b9-4fc2-e3a71230ee75"
+        ]
     },
     "98a0f817-16aa-4cdc-e28e-d46978496e9d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2283,11 +2286,6 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Rim.mtli.nasset",
         "thumbnail": "c4c6b77c-3622-ff28-0a43-0fb91a30b2e4"
-    },
-    "a3f176b4-c556-4320-a0b2-0f5bb971dab9": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Police.scene.nasset/Police Wheel.scene.nasset"
     },
     "a3fc136d-0d52-10c7-21af-ea4c14ee08d5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2959,7 +2957,15 @@
     "db0cbf88-51a9-423c-b382-fe6851fbf60c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Police.scene.nasset/Police Main.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Police.scene.nasset/Police Main.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "979de79a-7e52-4c00-b735-48398ec81b3f",
+            "9c83e4cc-e799-4d43-aa58-a89a2d9f504f",
+            "fc849d68-ab79-497d-9f84-193a039bcec6"
+        ]
     },
     "dc4fd898-71db-351b-2275-f9eba565f9fe": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
