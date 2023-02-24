@@ -1959,7 +1959,10 @@
     "895d8098-fdee-4204-99d2-426c8a243904": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player SUV.scene.nasset/SUV Body.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player SUV.scene.nasset/SUV Body.scene.nasset",
+        "dependencies": [
+            "06bcd12f-edd4-31b7-ce2c-763d24736595"
+        ]
     },
     "8a3f9387-9276-28e8-619a-e1d469dd2c74": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2236,7 +2239,15 @@
     "9ff478d9-4ee4-4b0c-84a2-fa988e490691": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player SUV.scene.nasset/SUV Main.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player SUV.scene.nasset/SUV Main.scene.nasset",
+        "tags": [
+            "c642f003-618a-45dc-a031-b16f61473103"
+        ],
+        "dependencies": [
+            "895d8098-fdee-4204-99d2-426c8a243904",
+            "9c83e4cc-e799-4d43-aa58-a89a2d9f504f",
+            "fc849d68-ab79-497d-9f84-193a039bcec6"
+        ]
     },
     "a0ea62cb-e48f-548d-0851-5696e85ec882": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2473,11 +2484,6 @@
             "1c93ad7b-1ec6-c81b-6c41-d7e60efb97a5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "b28b5ed3-074e-415d-a824-142983740f1b": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player SUV.scene.nasset/SUV Wheel.scene.nasset"
     },
     "b489a892-4118-912a-4082-dd9a7a5391f7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
