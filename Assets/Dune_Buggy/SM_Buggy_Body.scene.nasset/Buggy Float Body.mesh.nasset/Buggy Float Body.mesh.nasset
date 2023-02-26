@@ -7,6 +7,16 @@
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "cdd7c1aa-4bcc-8491-501a-4aceb5c3293e",
     "data_components": [],
+    "dependencies": [
+        "728afa22-6236-b131-245a-9e4bcbe01168",
+        "8657718d-15dd-b206-c024-cc53f192c6f5",
+        "0274ab8c-e277-718f-66d3-95ce3a4ba43b",
+        "934f49a1-254e-b635-e2f9-55ec5854d9e4",
+        "c48bde56-fba4-3262-ecd7-3f5f31611258",
+        "017573fa-1971-7bd8-a88e-504396b2d23d",
+        "2e22d4a6-781c-e024-f4c4-3e7633394847",
+        "be561030-6cf1-02f0-f42b-ba9bb36c3abe"
+    ],
     "children": [
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
