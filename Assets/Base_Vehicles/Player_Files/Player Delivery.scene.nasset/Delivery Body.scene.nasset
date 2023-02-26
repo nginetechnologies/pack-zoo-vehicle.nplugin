@@ -1,0 +1,218 @@
+{
+    "guid": "13ac9ea6-cb77-497e-9a4d-4ac9fcd2540e",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "2f30b795-af53-4f5b-87e4-34cd954ed4dc",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Vehicle Body"
+        }
+    ],
+    "dependencies": [
+        "455d8ed3-8114-c3a9-e4e7-afff7a76794f"
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6b6107b3-55f0-abbc-5304-ea0ef9e4e349",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Delivery Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "455d8ed3-8114-c3a9-e4e7-afff7a76794f"
+            },
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "09527bcf-2e84-4375-93c4-49d3c8eee7c2",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "dc240e7b-e0ab-f05f-852b-295c40c56be4"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "disabled": true
+                    },
+                    "children": [
+                        {
+                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                            "instanceGuid": "646d30a2-0377-449f-b6bb-50fa534773c0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "8c441663-c111-0373-66c9-16d5f14ab163"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Delivery Body Emission Red Collider"
+                                }
+                            ],
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "comOffset": [
+                                    0.0,
+                                    0.5,
+                                    -0.2
+                                ]
+                            }
+                        },
+                        {
+                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                            "instanceGuid": "ac288680-3e7a-4a93-9308-273ac90b944d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "9edea7e0-d359-4be8-6ceb-40f71bcf121c"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Delivery Body Paint Green Collider"
+                                }
+                            ],
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "comOffset": [
+                                    0.0,
+                                    0.5,
+                                    -0.2
+                                ]
+                            }
+                        },
+                        {
+                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                            "instanceGuid": "d6c721ae-62b3-424a-ac2a-34d28de1da5e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "71448884-0ff8-c823-f0fb-5b062462198b"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Delivery Body Paint White Collider"
+                                }
+                            ],
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "comOffset": [
+                                    0.0,
+                                    0.5,
+                                    -0.2
+                                ]
+                            }
+                        },
+                        {
+                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                            "instanceGuid": "c45299ed-9180-42db-8c86-0a30aeecc8bc",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "d0b6b1e2-5c7e-41e8-4ac5-66ff1ba79945"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Delivery Body Plastic Collider"
+                                }
+                            ],
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "comOffset": [
+                                    0.0,
+                                    0.5,
+                                    -0.2
+                                ]
+                            }
+                        },
+                        {
+                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                            "instanceGuid": "4a64e892-4f59-4eae-a47e-c66ec38b4621",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "b53e4703-0691-abe5-5bee-2523c729fdc6"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Delivery Body Rubber Collider"
+                                }
+                            ],
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "comOffset": [
+                                    0.0,
+                                    0.5,
+                                    -0.2
+                                ]
+                            }
+                        },
+                        {
+                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                            "instanceGuid": "1bb55ec5-f68f-4d3b-8ba4-4f9b2ca99736",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "1b1b24e8-b212-32b0-0629-6fac93569651"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Delivery Body Default Collider"
+                                }
+                            ],
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "comOffset": [
+                                    0.0,
+                                    0.5,
+                                    -0.2
+                                ]
+                            }
+                        },
+                        {
+                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                            "instanceGuid": "110d9700-77e5-4a9e-91fc-a1d6ddbe8226",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "2c0b8634-f07a-ed60-58e3-11955bbda4f5"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Delivery Body Emission Yellow Collider"
+                                }
+                            ],
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "comOffset": [
+                                    0.0,
+                                    0.5,
+                                    -0.2
+                                ]
+                            }
+                        },
+                        {
+                            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                            "instanceGuid": "e0ac7c6b-0991-4ce2-8d53-942f715071f5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "e62374bd-2b08-d857-9ede-797bfbc66042"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Delivery Body Window Collider"
+                                }
+                            ],
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "comOffset": [
+                                    0.0,
+                                    0.5,
+                                    -0.2
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "13ac9ea6-cb77-497e-9a4d-4ac9fcd2540e"
+    }
+}

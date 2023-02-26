@@ -1,0 +1,48 @@
+{
+    "guid": "250d31ad-170a-47c9-bd17-63c20f51522c",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "7d6ecc3b-51c2-4330-a2d8-581a65f96298",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Vehicle Body"
+        }
+    ],
+    "dependencies": [
+        "0e5a8639-be7b-28a7-24d9-a37358bec275"
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "198a83a7-4d34-43eb-b9fc-d5500758f4b8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Firetruck Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0e5a8639-be7b-28a7-24d9-a37358bec275"
+            },
+            "children": [
+                {
+                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                    "instanceGuid": "4bfd35b6-a4d6-40f1-8a4c-f6423e5d1d2c",
+                    "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "29fcbea4-8d1d-4fe8-d81f-3eb0a681de5b"
+                        }
+                    ],
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "disabled": true
+                    }
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "250d31ad-170a-47c9-bd17-63c20f51522c"
+    }
+}

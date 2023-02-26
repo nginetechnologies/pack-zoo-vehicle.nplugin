@@ -1,0 +1,167 @@
+{
+    "guid": "d8b1c9d3-f89d-44d6-b138-d57a5cfbb319",
+    "type_version": 1,
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "8c7829de-5f0e-4efb-a867-3e914debfacc",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
+    "dependencies": [
+        "1507dceb-50fb-4e56-a79c-68f72eba82ec",
+        "9c83e4cc-e799-4d43-aa58-a89a2d9f504f",
+        "fc849d68-ab79-497d-9f84-193a039bcec6"
+    ],
+    "tags": [
+        "c642f003-618a-45dc-a031-b16f61473103"
+    ],
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Playable Vehicle",
+            "flags": 2
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "024630c0-b538-4b7a-8c20-d794ff8e7919",
+            "instanceGuid": "ffb63c22-34e9-4774-b4f6-a50c3772e263",
+            "024630c0-b538-4b7a-8c20-d794ff8e7919": {
+                "steerAssistRatio": 1.0,
+                "steeringResponsivness": 3.0,
+                "steeringReleaseResponsivness": 10.0,
+                "accelerationResponsivness": 3.0,
+                "accelerationReleaseResponsivness": 20.0,
+                "maxPitchRollAngle": 39.9999
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Vehicle Controller"
+                },
+                {
+                    "typeGuid": "be33f822-02f0-4d8b-9553-8f6200b43f83"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
+                    "instanceGuid": "c3e0dc0e-3a20-4370-89ec-743ad7c0ec21",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            -10.0,
+                            2.5
+                        ],
+                        "rotation": [
+                            -9.9999,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "b0ec7111-5de9-4039-bee2-d915f63f929e": {
+                        "fieldOfView": 60.0,
+                        "nearPlane": 0.1,
+                        "farPlane": 1024.0
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Camera"
+                        },
+                        {
+                            "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
+                            "rotationSpeed": 4.0,
+                            "positionSpeed": 16.0,
+                            "verticalStep": 0.0
+                        }
+                    ]
+                },
+                {
+                    "typeGuid": "2fe2589c-79f4-4456-84e2-7b57af139e49",
+                    "instanceGuid": "50a5c4b3-543a-42b8-8db3-6eed81418095",
+                    "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                        "type": 2,
+                        "layer": 1,
+                        "body_flags": 4,
+                        "maximumAngularVelocity": 2700.0,
+                        "overriddenMass": 1600.0,
+                        "gravityScale": 2.5
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                            "mask": [
+                                "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                            ]
+                        },
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Vehicle Base"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "d91b1554-ed01-40a7-90eb-638fdb6e8ce0",
+                            "instanceGuid": "1c8a8676-2a4d-4876-9d08-138c74cf5bc8",
+                            "d91b1554-ed01-40a7-90eb-638fdb6e8ce0": {
+                                "minRPM": 400.0,
+                                "maxRPM": 600.0,
+                                "maxTorque": 2000.0,
+                                "reverseGearRatio": -2.9,
+                                "gearSwitchTime": 0.05,
+                                "clutchReleaseTime": 0.05,
+                                "shiftUpRPM": 550.0,
+                                "shiftDownRPM": 500.0
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Engine"
+                                }
+                            ]
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "2d79cad2-cca1-41fc-8245-63af97362518",
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "1507dceb-50fb-4e56-a79c-68f72eba82ec"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "a8736063-8237-46ba-8e95-695e89398120",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    -0.65,
+                                    0.375
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "9c83e4cc-e799-4d43-aa58-a89a2d9f504f"
+                            }
+                        },
+                        {
+                            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                            "instanceGuid": "bcdee820-f91a-427c-a00c-3b6c101d9898",
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.65,
+                                    0.375
+                                ]
+                            },
+                            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                                "scene": "fc849d68-ab79-497d-9f84-193a039bcec6"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d8b1c9d3-f89d-44d6-b138-d57a5cfbb319"
+    }
+}
