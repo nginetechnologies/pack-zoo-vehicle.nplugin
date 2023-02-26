@@ -1,10 +1,9 @@
 {
     "guid": "fbf9ef78-1c16-3dff-e5db-872858bffc92",
-    "source": "Source/Buggy Body.mtli.nasset.dds",
+    "source": "Source/Buggy_Body_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,

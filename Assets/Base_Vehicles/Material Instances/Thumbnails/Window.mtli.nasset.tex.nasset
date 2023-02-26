@@ -1,10 +1,9 @@
 {
     "guid": "ea10da10-a2e8-b2a5-eac4-58208c4badb2",
-    "source": "Source/Window.mtli.nasset.dds",
+    "source": "Source/Window_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,

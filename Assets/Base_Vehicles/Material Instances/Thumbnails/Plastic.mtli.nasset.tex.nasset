@@ -1,10 +1,9 @@
 {
     "guid": "5e94d725-0147-261d-50d0-82483b6fddf1",
-    "source": "Source/Plastic.mtli.nasset.dds",
+    "source": "Source/Plastic_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,

@@ -1,10 +1,9 @@
 {
     "guid": "e113261e-d046-f9f1-83c6-392f0b97b9d0",
-    "source": "Source/Paint Blue.mtli.nasset.dds",
+    "source": "Source/Paint_Blue_Thumb.png",
     "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
     "resolution": [
-        256.0,
-        256.0
+        256
     ],
     "preset": 4,
     "usage_flags": 6,
