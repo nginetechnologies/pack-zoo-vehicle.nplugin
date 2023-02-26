@@ -16,5 +16,8 @@
             "value": 0.5
         }
     ],
-    "thumbnailGuid": "44aabdad-5b6e-59ed-465e-1fdc1dfa1d03"
+    "thumbnailGuid": "44aabdad-5b6e-59ed-465e-1fdc1dfa1d03",
+    "dependencies": [
+        "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+    ]
 }

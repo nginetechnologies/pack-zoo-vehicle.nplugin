@@ -6,223 +6,505 @@
         "radius": 4096.0
     },
     "children": [
-		{
-			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-			"instanceGuid": "68031a56-598e-563d-b694-04e24a3d2202",
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-					"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-					"86d22670-1f09-4246-ae43-ef7f1b16c977"
-				]
-			},
-			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-				"mesh": "4006694c-007c-8051-0a33-e8b46f4bb22b",
-				"material_instance": "4c3ecde0-a8eb-3f1e-9603-f0ea7059ba9b"
-			},
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Kart Body Yellow 500"
-				},
-				{
-					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-					"mask": [
-						"13ca71b8-d868-4f7c-a0bb-c7585db11327"
-					]
-				},
-				{
-					"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-					"templateInstanceGuid": "68031a56-598e-563d-b694-04e24a3d2202"
-				}
-			]
-		},
-		{
-			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-			"instanceGuid": "7208d97f-3445-b21a-04c8-0ce2279f135b",
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-					"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-					"86d22670-1f09-4246-ae43-ef7f1b16c977"
-				]
-			},
-			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-				"mesh": "82c94a7f-3149-abf5-a407-5e123d405d70",
-				"material_instance": "de6665fe-6b2f-aa43-a830-e067769a3165"
-			},
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Kart Body Gray 500"
-				},
-				{
-					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-					"mask": [
-						"13ca71b8-d868-4f7c-a0bb-c7585db11327"
-					]
-				},
-				{
-					"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-					"templateInstanceGuid": "7208d97f-3445-b21a-04c8-0ce2279f135b"
-				}
-			]
-		},
-		{
-			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-			"instanceGuid": "a380dbcb-c98d-48ec-d931-edea186d705b",
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-					"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-					"86d22670-1f09-4246-ae43-ef7f1b16c977"
-				]
-			},
-			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-				"mesh": "f98a1a35-b9d5-ea3c-da7d-d8890751cdb4",
-				"material_instance": "2965b728-338a-1b66-c0dc-e4fe530e4b56"
-			},
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Kart Body Sky 500"
-				},
-				{
-					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-					"mask": [
-						"13ca71b8-d868-4f7c-a0bb-c7585db11327"
-					]
-				},
-				{
-					"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-					"templateInstanceGuid": "a380dbcb-c98d-48ec-d931-edea186d705b"
-				}
-			]
-		},
-		{
-			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-			"instanceGuid": "19edc5d3-d411-e884-bedd-6963db58ae63",
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-					"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-					"86d22670-1f09-4246-ae43-ef7f1b16c977"
-				]
-			},
-			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-				"mesh": "9448a0ee-16c3-5416-9e8d-e4df1fcef35e",
-				"material_instance": "421a0dce-1878-161b-3e36-03e822b4a0a2"
-			},
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Kart Body Indigo 500"
-				},
-				{
-					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-					"mask": [
-						"13ca71b8-d868-4f7c-a0bb-c7585db11327"
-					]
-				},
-				{
-					"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-					"templateInstanceGuid": "19edc5d3-d411-e884-bedd-6963db58ae63"
-				}
-			]
-		},
-		{
-			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-			"instanceGuid": "0c2180e2-9702-9772-b525-620d4962f23c",
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-					"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-					"86d22670-1f09-4246-ae43-ef7f1b16c977"
-				]
-			},
-			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-				"mesh": "df72e996-f393-ba8a-88b1-8d035c74087f",
-				"material_instance": "b9a48ecc-5e98-a1ae-9397-6d2d19700c74"
-			},
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Kart Body Orange 500"
-				},
-				{
-					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-					"mask": [
-						"13ca71b8-d868-4f7c-a0bb-c7585db11327"
-					]
-				},
-				{
-					"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-					"templateInstanceGuid": "0c2180e2-9702-9772-b525-620d4962f23c"
-				}
-			]
-		},
-		{
-			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-			"instanceGuid": "e0e661ad-6918-5f79-115a-517624c6e8d0",
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-					"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-					"86d22670-1f09-4246-ae43-ef7f1b16c977"
-				]
-			},
-			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-				"mesh": "d2b16b8d-56b0-d63f-65f7-791b04ee16a0",
-				"material_instance": "ba4fe86c-92cc-5b9b-8137-b025cdcf6725"
-			},
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Kart Body Violet 500"
-				},
-				{
-					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-					"mask": [
-						"13ca71b8-d868-4f7c-a0bb-c7585db11327"
-					]
-				},
-				{
-					"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-					"templateInstanceGuid": "e0e661ad-6918-5f79-115a-517624c6e8d0"
-				}
-			]
-		},
-		{
-			"typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-			"instanceGuid": "24f5bac9-e52c-c523-3297-e26eb3f57d9e",
-			"9f750482-b822-4d4b-be6a-9c135c614328": {
-				"stages": [
-					"dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
-					"bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-					"86d22670-1f09-4246-ae43-ef7f1b16c977"
-				]
-			},
-			"de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-				"mesh": "f43db62c-3df8-cfc9-41bc-bbe27629e4a8",
-				"material_instance": "6978018a-dfbb-cf74-0473-ed7a50fe4744"
-			},
-			"data_components": [
-				{
-					"typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-					"name": "Kart Body Grey 02"
-				},
-				{
-					"typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
-					"mask": [
-						"13ca71b8-d868-4f7c-a0bb-c7585db11327"
-					]
-				},
-				{
-					"typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-					"templateInstanceGuid": "24f5bac9-e52c-c523-3297-e26eb3f57d9e"
-				}
-			]
-		}
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "68031a56-598e-563d-b694-04e24a3d2202",
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "4006694c-007c-8051-0a33-e8b46f4bb22b",
+                "material_instance": "4c3ecde0-a8eb-3f1e-9603-f0ea7059ba9b"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Kart Body Yellow 500"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "68031a56-598e-563d-b694-04e24a3d2202"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "7208d97f-3445-b21a-04c8-0ce2279f135b",
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "82c94a7f-3149-abf5-a407-5e123d405d70",
+                "material_instance": "de6665fe-6b2f-aa43-a830-e067769a3165"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Kart Body Gray 500"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7208d97f-3445-b21a-04c8-0ce2279f135b"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "a380dbcb-c98d-48ec-d931-edea186d705b",
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "f98a1a35-b9d5-ea3c-da7d-d8890751cdb4",
+                "material_instance": "2965b728-338a-1b66-c0dc-e4fe530e4b56"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Kart Body Sky 500"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "a380dbcb-c98d-48ec-d931-edea186d705b"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "19edc5d3-d411-e884-bedd-6963db58ae63",
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "9448a0ee-16c3-5416-9e8d-e4df1fcef35e",
+                "material_instance": "421a0dce-1878-161b-3e36-03e822b4a0a2"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Kart Body Indigo 500"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "19edc5d3-d411-e884-bedd-6963db58ae63"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "0c2180e2-9702-9772-b525-620d4962f23c",
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "df72e996-f393-ba8a-88b1-8d035c74087f",
+                "material_instance": "b9a48ecc-5e98-a1ae-9397-6d2d19700c74"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Kart Body Orange 500"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0c2180e2-9702-9772-b525-620d4962f23c"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "e0e661ad-6918-5f79-115a-517624c6e8d0",
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "d2b16b8d-56b0-d63f-65f7-791b04ee16a0",
+                "material_instance": "ba4fe86c-92cc-5b9b-8137-b025cdcf6725"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Kart Body Violet 500"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "e0e661ad-6918-5f79-115a-517624c6e8d0"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "instanceGuid": "24f5bac9-e52c-c523-3297-e26eb3f57d9e",
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "f43db62c-3df8-cfc9-41bc-bbe27629e4a8",
+                "material_instance": "6978018a-dfbb-cf74-0473-ed7a50fe4744"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Kart Body Grey 02"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "24f5bac9-e52c-c523-3297-e26eb3f57d9e"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "50e027b7-3c7a-c877-1b06-421f097b369b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Kart Body Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "880207b6-195f-2025-a30a-36734dad9f48",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Kart Body Yellow 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "985f2d03-5f45-ac31-3799-edf9510bcbae",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Kart Body Yellow 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4006694c-007c-8051-0a33-e8b46f4bb22b",
+                                "material_instance": "4c3ecde0-a8eb-3f1e-9603-f0ea7059ba9b"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "4006694c-007c-8051-0a33-e8b46f4bb22b"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "5e924bef-3308-9315-a3f5-1380c95cf380",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Kart Body Gray 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "1f7faca7-954f-f960-d732-33f7cd6f5d00",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Kart Body Gray 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "82c94a7f-3149-abf5-a407-5e123d405d70",
+                                "material_instance": "de6665fe-6b2f-aa43-a830-e067769a3165"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "82c94a7f-3149-abf5-a407-5e123d405d70"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "c3252971-b1e3-9f74-787a-1ff08cc0b87a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Kart Body Sky 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "a9814159-cd46-3696-c539-4c9f131ec100",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Kart Body Sky 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f98a1a35-b9d5-ea3c-da7d-d8890751cdb4",
+                                "material_instance": "2965b728-338a-1b66-c0dc-e4fe530e4b56"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f98a1a35-b9d5-ea3c-da7d-d8890751cdb4"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "e77a388a-30ce-e043-0423-98ecfb5fc9e6",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Kart Body Indigo 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "3a46d62f-c953-a13d-ad61-e52b4d5285db",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Kart Body Indigo 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "9448a0ee-16c3-5416-9e8d-e4df1fcef35e",
+                                "material_instance": "421a0dce-1878-161b-3e36-03e822b4a0a2"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "9448a0ee-16c3-5416-9e8d-e4df1fcef35e"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "e293dc97-e4ff-d22c-0403-e6a60899712f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Kart Body Orange 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "4e3a24cc-8eb2-40cf-2fa1-bbf2170d076d",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Kart Body Orange 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "df72e996-f393-ba8a-88b1-8d035c74087f",
+                                "material_instance": "b9a48ecc-5e98-a1ae-9397-6d2d19700c74"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "df72e996-f393-ba8a-88b1-8d035c74087f"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "5934dff0-2dc9-b19e-50f4-6f18aa762e36",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Kart Body Violet 500 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "b504aad6-0a38-36a1-0cf8-ac918ad515a0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Kart Body Violet 500"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d2b16b8d-56b0-d63f-65f7-791b04ee16a0",
+                                "material_instance": "ba4fe86c-92cc-5b9b-8137-b025cdcf6725"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "d2b16b8d-56b0-d63f-65f7-791b04ee16a0"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "ad83bf82-90ad-9a2f-6fe3-e887e483e0a0",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Kart Body Grey 02 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "ecb0a1be-1dd3-cf56-f333-e79fe4df45ed",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Kart Body Grey 02"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f43db62c-3df8-cfc9-41bc-bbe27629e4a8",
+                                "material_instance": "6978018a-dfbb-cf74-0473-ed7a50fe4744"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "f43db62c-3df8-cfc9-41bc-bbe27629e4a8"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
     ],
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -231,5 +513,22 @@
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
-    "data_components": []
+    "data_components": [],
+    "dependencies": [
+        "4c3ecde0-a8eb-3f1e-9603-f0ea7059ba9b",
+        "4006694c-007c-8051-0a33-e8b46f4bb22b",
+        "de6665fe-6b2f-aa43-a830-e067769a3165",
+        "82c94a7f-3149-abf5-a407-5e123d405d70",
+        "2965b728-338a-1b66-c0dc-e4fe530e4b56",
+        "f98a1a35-b9d5-ea3c-da7d-d8890751cdb4",
+        "421a0dce-1878-161b-3e36-03e822b4a0a2",
+        "9448a0ee-16c3-5416-9e8d-e4df1fcef35e",
+        "b9a48ecc-5e98-a1ae-9397-6d2d19700c74",
+        "df72e996-f393-ba8a-88b1-8d035c74087f",
+        "ba4fe86c-92cc-5b9b-8137-b025cdcf6725",
+        "d2b16b8d-56b0-d63f-65f7-791b04ee16a0",
+        "6978018a-dfbb-cf74-0473-ed7a50fe4744",
+        "f43db62c-3df8-cfc9-41bc-bbe27629e4a8",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
 }

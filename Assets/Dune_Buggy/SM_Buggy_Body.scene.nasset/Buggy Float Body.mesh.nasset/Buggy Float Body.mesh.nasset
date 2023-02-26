@@ -8,14 +8,15 @@
     "instanceGuid": "cdd7c1aa-4bcc-8491-501a-4aceb5c3293e",
     "data_components": [],
     "dependencies": [
-        "728afa22-6236-b131-245a-9e4bcbe01168",
         "8657718d-15dd-b206-c024-cc53f192c6f5",
-        "0274ab8c-e277-718f-66d3-95ce3a4ba43b",
+        "728afa22-6236-b131-245a-9e4bcbe01168",
         "934f49a1-254e-b635-e2f9-55ec5854d9e4",
-        "c48bde56-fba4-3262-ecd7-3f5f31611258",
+        "0274ab8c-e277-718f-66d3-95ce3a4ba43b",
         "017573fa-1971-7bd8-a88e-504396b2d23d",
+        "c48bde56-fba4-3262-ecd7-3f5f31611258",
+        "be561030-6cf1-02f0-f42b-ba9bb36c3abe",
         "2e22d4a6-781c-e024-f4c4-3e7633394847",
-        "be561030-6cf1-02f0-f42b-ba9bb36c3abe"
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
     ],
     "children": [
         {
@@ -97,6 +98,174 @@
                 "mesh": "2e22d4a6-781c-e024-f4c4-3e7633394847",
                 "material_instance": "be561030-6cf1-02f0-f42b-ba9bb36c3abe"
             }
+        },
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "5f6654d6-7f89-9ebe-e336-92bb4ec08d08",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Buggy Float Body Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "6f070b74-b2a5-b6e4-0523-c2d57ef9fad0",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Buggy Float Body Buggy Frame Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "117822f2-f1eb-01a9-4c06-17a4192c4178",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Buggy Float Body Buggy Frame"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "728afa22-6236-b131-245a-9e4bcbe01168",
+                                "material_instance": "8657718d-15dd-b206-c024-cc53f192c6f5"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "728afa22-6236-b131-245a-9e4bcbe01168"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "f6162cb8-a01f-ba4e-add0-102424a99874",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Buggy Float Body Buggy Bumper Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "f02eeb56-0e96-702a-a23c-a6907da37295",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Buggy Float Body Buggy Bumper"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "0274ab8c-e277-718f-66d3-95ce3a4ba43b",
+                                "material_instance": "934f49a1-254e-b635-e2f9-55ec5854d9e4"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "0274ab8c-e277-718f-66d3-95ce3a4ba43b"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "fe0f4bfa-626a-0a62-1147-cf24b75f8345",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Buggy Float Body Buggy Body Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "f04ebc9a-7950-6791-fd4c-dc5481e6c11c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Buggy Float Body Buggy Body"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c48bde56-fba4-3262-ecd7-3f5f31611258",
+                                "material_instance": "017573fa-1971-7bd8-a88e-504396b2d23d"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "c48bde56-fba4-3262-ecd7-3f5f31611258"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "66c8221c-fadb-56b1-d7cb-efe2eeda9b4a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Buggy Float Body Buggy Rubber Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "926c00c2-b221-6456-c6af-c22838281d5b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Buggy Float Body Buggy Rubber"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2e22d4a6-781c-e024-f4c4-3e7633394847",
+                                "material_instance": "be561030-6cf1-02f0-f42b-ba9bb36c3abe"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "2e22d4a6-781c-e024-f4c4-3e7633394847"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {

@@ -14,7 +14,10 @@
     "017573fa-1971-7bd8-a88e-504396b2d23d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Body.mtli.nasset",
-        "thumbnail": "fbf9ef78-1c16-3dff-e5db-872858bffc92"
+        "thumbnail": "fbf9ef78-1c16-3dff-e5db-872858bffc92",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "018f00d9-a343-9059-d5a8-6220afe4c5d1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -29,11 +32,15 @@
         ]
     },
     "0274ab8c-e277-718f-66d3-95ce3a4ba43b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Bumper.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "934f49a1-254e-b635-e2f9-55ec5854d9e4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "0294f0ba-12f6-49e2-b9b1-081c05af1709": {
@@ -480,11 +487,15 @@
         "path": "Assets/Base_Vehicles/Player_Files/Player Formula.scene.nasset/Formula Wheel.scene.nasset"
     },
     "270fe1fd-ca7e-b15f-2511-c7daa1d58ee8": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/Kart Wheel.mesh.nasset/Kart Wheel Indigo 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "421a0dce-1878-161b-3e36-03e822b4a0a2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "279905d6-22cc-d6bb-ee5b-da18cedb7555": {
@@ -498,7 +509,10 @@
     "2965b728-338a-1b66-c0dc-e4fe530e4b56": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Sky 500.mtli.nasset",
-        "thumbnail": "07810350-57f1-51f9-cd77-94d0d8802d7d"
+        "thumbnail": "07810350-57f1-51f9-cd77-94d0d8802d7d",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "2aa40772-7214-bf23-5566-f1a301b8aeaf": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -515,7 +529,10 @@
     "2ab4cf93-518a-faf3-d0e9-8f8d7b523803": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/SM_Kart_Wheel.scene.nasset"
+        "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/SM_Kart_Wheel.scene.nasset",
+        "dependencies": [
+            "fdc92366-be95-7c16-6f3c-5e979954fbe8"
+        ]
     },
     "2b21eead-e239-a483-6e29-389e89207005": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -535,11 +552,15 @@
         ]
     },
     "2e22d4a6-781c-e024-f4c4-3e7633394847": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Rubber.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "be561030-6cf1-02f0-f42b-ba9bb36c3abe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "2e535017-c3fd-fa74-6c97-f444b199d8ea": {
@@ -650,11 +671,15 @@
         ]
     },
     "329d4574-8991-022b-fb5e-0fed1f06bd9b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/Kart Wheel.mesh.nasset/Kart Wheel Orange 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b9a48ecc-5e98-a1ae-9397-6d2d19700c74",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "3431ec96-9835-7b9a-9cee-87b6be8cf260": {
@@ -710,7 +735,7 @@
     "353e15ff-d176-4338-8c2d-c221381f6385": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Car Wheel.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Wheels/Car Wheel Dark.scene.nasset",
         "dependencies": [
             "4719faca-8357-0e5a-ba52-7aa848ee42fa"
         ]
@@ -860,11 +885,15 @@
         ]
     },
     "4006694c-007c-8051-0a33-e8b46f4bb22b": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Yellow 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "4c3ecde0-a8eb-3f1e-9603-f0ea7059ba9b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "404dfd73-550a-3c83-2bc1-896d78d0717f": {
@@ -929,7 +958,10 @@
     "421a0dce-1878-161b-3e36-03e822b4a0a2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Indigo 500.mtli.nasset",
-        "thumbnail": "e3250881-c6b1-4d74-61da-0b96c0841a81"
+        "thumbnail": "e3250881-c6b1-4d74-61da-0b96c0841a81",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "421fcad2-5b23-f778-864c-0ea21e11c3f2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1165,7 +1197,10 @@
     "4c3ecde0-a8eb-3f1e-9603-f0ea7059ba9b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Yellow 500.mtli.nasset",
-        "thumbnail": "80e5594c-62d6-dc51-98c5-17ce87dbc08c"
+        "thumbnail": "80e5594c-62d6-dc51-98c5-17ce87dbc08c",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "4c6d6cbc-9ade-a4ff-24dd-1a085e74aad1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1508,7 +1543,10 @@
     "6978018a-dfbb-cf74-0473-ed7a50fe4744": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Grey 02.mtli.nasset",
-        "thumbnail": "56c3a50c-50f6-a91c-9a51-ef9be4fe00a9"
+        "thumbnail": "56c3a50c-50f6-a91c-9a51-ef9be4fe00a9",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "69c84602-2d2b-2b21-27bf-ad16b0a7eb2e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1652,11 +1690,15 @@
         "path": "Assets/Base_Vehicles/SM_Delivery_Flat_Body.scene.nasset/Thumbnails/SM_Delivery_Flat_Body.scene.nasset.tex.nasset"
     },
     "728afa22-6236-b131-245a-9e4bcbe01168": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Frame.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8657718d-15dd-b206-c024-cc53f192c6f5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "7348ceab-d8b8-e800-a9e7-9e766ff3913d": {
@@ -1847,11 +1889,15 @@
         "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Buggy Bumper.mtli.nasset.tex.nasset"
     },
     "82c94a7f-3149-abf5-a407-5e123d405d70": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Gray 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "de6665fe-6b2f-aa43-a830-e067769a3165",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "82de14ea-e7fd-8d8a-f4a2-9ac38cdd8822": {
@@ -1891,11 +1937,15 @@
         ]
     },
     "84c4863d-a9d4-c267-255b-f61869e4902a": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/Buggy Float Wheel.mesh.nasset/Buggy Float Wheel Buggy Rubber.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "be561030-6cf1-02f0-f42b-ba9bb36c3abe",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "84d1663b-0703-43d6-7c9f-5cb68d03e225": {
@@ -1934,7 +1984,10 @@
     "8657718d-15dd-b206-c024-cc53f192c6f5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Frame.mtli.nasset",
-        "thumbnail": "c30b46ad-5c9f-2ea4-205f-7207c3a75917"
+        "thumbnail": "c30b46ad-5c9f-2ea4-205f-7207c3a75917",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "86687a0a-81dd-ad34-c06d-741009df2dc1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1956,7 +2009,10 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/SM_Buggy_Wheel.scene.nasset",
-        "thumbnail": "faf09fcf-d4fe-6fa6-a707-9e6c10746d68"
+        "thumbnail": "faf09fcf-d4fe-6fa6-a707-9e6c10746d68",
+        "dependencies": [
+            "ebb84771-101e-7bda-4267-3688c201699f"
+        ]
     },
     "89272ed6-d1e3-d7e6-c733-fcfd090db998": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2089,7 +2145,10 @@
     "934f49a1-254e-b635-e2f9-55ec5854d9e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Bumper.mtli.nasset",
-        "thumbnail": "817377a7-6e3b-4c5f-6848-e3b8de1be5db"
+        "thumbnail": "817377a7-6e3b-4c5f-6848-e3b8de1be5db",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "936b3112-98ef-8cb2-07ba-02bc795103bd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2104,11 +2163,15 @@
         ]
     },
     "9448a0ee-16c3-5416-9e8d-e4df1fcef35e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Indigo 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "421a0dce-1878-161b-3e36-03e822b4a0a2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "949405a4-4be9-d0b2-112c-2288599bb9cb": {
@@ -2318,7 +2381,10 @@
     "a3d9db97-f807-c2d0-01b6-28f9fafaaf2e": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Rim.mtli.nasset",
-        "thumbnail": "c4c6b77c-3622-ff28-0a43-0fb91a30b2e4"
+        "thumbnail": "c4c6b77c-3622-ff28-0a43-0fb91a30b2e4",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "a3fc136d-0d52-10c7-21af-ea4c14ee08d5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2584,7 +2650,10 @@
     "b9a48ecc-5e98-a1ae-9397-6d2d19700c74": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Orange 500.mtli.nasset",
-        "thumbnail": "fbbd215e-a796-45b2-f52f-71f28bd7d206"
+        "thumbnail": "fbbd215e-a796-45b2-f52f-71f28bd7d206",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "ba4f2d89-9657-4d5a-8706-493203252b2d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2594,7 +2663,10 @@
     "ba4fe86c-92cc-5b9b-8137-b025cdcf6725": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Violet 500.mtli.nasset",
-        "thumbnail": "44aabdad-5b6e-59ed-465e-1fdc1dfa1d03"
+        "thumbnail": "44aabdad-5b6e-59ed-465e-1fdc1dfa1d03",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "bd05b030-fcf1-4f14-9d31-abcab9678d02": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2621,7 +2693,10 @@
     "be561030-6cf1-02f0-f42b-ba9bb36c3abe": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Rubber.mtli.nasset",
-        "thumbnail": "4fca276e-f61b-5d45-76c0-235d4a1a1887"
+        "thumbnail": "4fca276e-f61b-5d45-76c0-235d4a1a1887",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "bf46af13-b59f-6a75-c389-072ef194e690": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2650,6 +2725,23 @@
         "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4c3ecde0-a8eb-3f1e-9603-f0ea7059ba9b",
+            "4006694c-007c-8051-0a33-e8b46f4bb22b",
+            "de6665fe-6b2f-aa43-a830-e067769a3165",
+            "82c94a7f-3149-abf5-a407-5e123d405d70",
+            "2965b728-338a-1b66-c0dc-e4fe530e4b56",
+            "f98a1a35-b9d5-ea3c-da7d-d8890751cdb4",
+            "421a0dce-1878-161b-3e36-03e822b4a0a2",
+            "9448a0ee-16c3-5416-9e8d-e4df1fcef35e",
+            "b9a48ecc-5e98-a1ae-9397-6d2d19700c74",
+            "df72e996-f393-ba8a-88b1-8d035c74087f",
+            "ba4fe86c-92cc-5b9b-8137-b025cdcf6725",
+            "d2b16b8d-56b0-d63f-65f7-791b04ee16a0",
+            "6978018a-dfbb-cf74-0473-ed7a50fe4744",
+            "f43db62c-3df8-cfc9-41bc-bbe27629e4a8",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "c30b46ad-5c9f-2ea4-205f-7207c3a75917": {
@@ -2665,11 +2757,15 @@
         ]
     },
     "c48bde56-fba4-3262-ecd7-3f5f31611258": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Buggy Float Body.mesh.nasset/Buggy Float Body Buggy Body.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "017573fa-1971-7bd8-a88e-504396b2d23d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "c4c6b77c-3622-ff28-0a43-0fb91a30b2e4": {
@@ -2810,11 +2906,15 @@
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/Thumbnails/SM_Buggy_Body.scene.nasset.tex.nasset"
     },
     "cd8fa1c6-8df2-0388-38c4-61a2718ec023": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Buggy_Wheel.scene.nasset/Buggy Float Wheel.mesh.nasset/Buggy Float Wheel Buggy Rim.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "a3d9db97-f807-c2d0-01b6-28f9fafaaf2e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ceb5e0d3-7704-1bc0-fad4-c65bd6ef1e82": {
@@ -2883,11 +2983,15 @@
         ]
     },
     "d2b16b8d-56b0-d63f-65f7-791b04ee16a0": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Violet 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ba4fe86c-92cc-5b9b-8137-b025cdcf6725",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "d3aa34f7-f6b3-4f26-9566-a2646e37f78d": {
@@ -2961,7 +3065,10 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Dune_Buggy/SM_Buggy_Body.scene.nasset/SM_Buggy_Body.scene.nasset",
-        "thumbnail": "cd30afa5-6663-626e-f0d6-b308acfb267d"
+        "thumbnail": "cd30afa5-6663-626e-f0d6-b308acfb267d",
+        "dependencies": [
+            "f7c26609-3a53-8d15-f1c8-1dffe9d70732"
+        ]
     },
     "d96bb636-6080-5522-10f8-6a888c619ce5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3049,14 +3156,21 @@
     "de6665fe-6b2f-aa43-a830-e067769a3165": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Gray 500.mtli.nasset",
-        "thumbnail": "61cd6ac3-7a8d-8fe2-41a9-3b4aa882f52b"
+        "thumbnail": "61cd6ac3-7a8d-8fe2-41a9-3b4aa882f52b",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "df72e996-f393-ba8a-88b1-8d035c74087f": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Orange 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b9a48ecc-5e98-a1ae-9397-6d2d19700c74",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "e0828124-3583-feeb-5540-1c9fd2a4fec1": {
@@ -3170,7 +3284,10 @@
     "e6021de4-2ef7-25b0-9301-0b0a3ae70dd7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/SM_Kart_Body.scene.nasset"
+        "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/SM_Kart_Body.scene.nasset",
+        "dependencies": [
+            "c1341144-1714-ac95-ae51-5d9779b90dd4"
+        ]
     },
     "e653d6b9-052f-4db7-af37-765dbf299b87": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -3250,10 +3367,11 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
         "dependencies": [
-            "cd8fa1c6-8df2-0388-38c4-61a2718ec023",
             "a3d9db97-f807-c2d0-01b6-28f9fafaaf2e",
+            "cd8fa1c6-8df2-0388-38c4-61a2718ec023",
+            "be561030-6cf1-02f0-f42b-ba9bb36c3abe",
             "84c4863d-a9d4-c267-255b-f61869e4902a",
-            "be561030-6cf1-02f0-f42b-ba9bb36c3abe"
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ebecb310-1348-482d-9be8-1690eae35ef4": {
@@ -3359,11 +3477,15 @@
         "path": "Assets/Base_Vehicles/SM_Truck_Body.scene.nasset/Thumbnails/SM_Truck_Body.scene.nasset.tex.nasset"
     },
     "f43db62c-3df8-cfc9-41bc-bbe27629e4a8": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Grey 02.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "6978018a-dfbb-cf74-0473-ed7a50fe4744",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "f443bf92-e3bc-ed15-80be-9499cb0913e0": {
@@ -3439,14 +3561,15 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
         "dependencies": [
-            "728afa22-6236-b131-245a-9e4bcbe01168",
             "8657718d-15dd-b206-c024-cc53f192c6f5",
-            "0274ab8c-e277-718f-66d3-95ce3a4ba43b",
+            "728afa22-6236-b131-245a-9e4bcbe01168",
             "934f49a1-254e-b635-e2f9-55ec5854d9e4",
-            "c48bde56-fba4-3262-ecd7-3f5f31611258",
+            "0274ab8c-e277-718f-66d3-95ce3a4ba43b",
             "017573fa-1971-7bd8-a88e-504396b2d23d",
+            "c48bde56-fba4-3262-ecd7-3f5f31611258",
+            "be561030-6cf1-02f0-f42b-ba9bb36c3abe",
             "2e22d4a6-781c-e024-f4c4-3e7633394847",
-            "be561030-6cf1-02f0-f42b-ba9bb36c3abe"
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "f7f2ccaa-3c45-474e-ad06-57550118019c": {
@@ -3496,11 +3619,15 @@
         ]
     },
     "f98a1a35-b9d5-ea3c-da7d-d8890751cdb4": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Dune_Buggy/SM_Kart_Body.scene.nasset/Kart Body.mesh.nasset/Kart Body Sky 500.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2965b728-338a-1b66-c0dc-e4fe530e4b56",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "f9cc195a-3c9d-1968-4e26-085fe5c1595f": {
@@ -3577,6 +3704,13 @@
         "path": "Assets/Dune_Buggy/SM_Kart_Wheel.scene.nasset/Kart Wheel.mesh.nasset/Kart Wheel.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "421a0dce-1878-161b-3e36-03e822b4a0a2",
+            "270fe1fd-ca7e-b15f-2511-c7daa1d58ee8",
+            "b9a48ecc-5e98-a1ae-9397-6d2d19700c74",
+            "329d4574-8991-022b-fb5e-0fed1f06bd9b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "fdcb8f04-39a1-06bb-7178-67dfaadea0e1": {
