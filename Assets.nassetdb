@@ -285,10 +285,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1786efb5-e86e-41a9-b1d4-ba34b6720f93": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Garbage Truck.scene.nasset.tex.nasset"
+    },
     "1a19eeac-5975-475b-9c9f-222e39022a3a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Hatchback.scene.nasset/Hatchback Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Hatchback.scene.nasset/Hatchback.scene.nasset",
+        "thumbnail": "68a2345b-0785-4aef-ae52-321c4055aecc",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -576,6 +581,10 @@
             "7f83343d-5c8a-b7c7-0347-665d5c5f3252"
         ]
     },
+    "2f145da7-da81-4173-9d1e-8b0eb45ab2a9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Truck Flatbed.scene.nasset.tex.nasset"
+    },
     "2fc492a4-ebaa-7ea1-7e26-cf85828a228b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -755,7 +764,8 @@
     "3611d102-a229-4bbb-9a8e-19e957cb2c0d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Race Futuristic.scene.nasset/Race Futuristic Main.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Race Futuristic.scene.nasset/Race Futuristic.scene.nasset",
+        "thumbnail": "7d0d81ec-2468-4d62-908e-6aedf76e3978"
     },
     "3755600f-0856-ab46-929a-8242c88ddbfa": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -804,6 +814,10 @@
             "279905d6-22cc-d6bb-ee5b-da18cedb7555",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "3ac88d9b-6d47-454e-bf6c-287b60b4dd58": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Truck.scene.nasset.tex.nasset"
     },
     "3ad80e66-fc00-1e9b-fbad-2a6d518ce62d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -914,6 +928,10 @@
             "beeca426-a340-009a-b704-ebd3fdd42cc7",
             "14b68383-7b0d-715d-dd0f-a4c53985a5c3"
         ]
+    },
+    "40873ab5-dad9-453b-89f5-dc181bf4ed6b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Formula.scene.nasset.tex.nasset"
     },
     "40dcaa3c-447c-62f7-4a9a-aa848f5a228d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1107,7 +1125,8 @@
     "47a12630-57a1-43f9-bf60-29e14a49a265": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor Police.scene.nasset/Tractor Police Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor Police.scene.nasset/Tractor Police.scene.nasset",
+        "thumbnail": "f68a9723-1d2d-41f3-87d4-da2aeb251b46",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -1137,6 +1156,10 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "48e994a0-40e3-4762-aa2f-26436a6525ca": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Tractor Shovel.scene.nasset.tex.nasset"
+    },
     "4a0b859e-cee8-afff-0ae1-b0404f076584": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1148,6 +1171,10 @@
             "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "4ac4caeb-96ca-4832-a0e3-1ce0dc0c991e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Delivery.scene.nasset.tex.nasset"
     },
     "4af5c7de-1aac-3a30-684f-f853105e4fd9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1315,7 +1342,8 @@
     "56afe3d5-af32-45dd-9637-c33facc98e5b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Delivery.scene.nasset/Delivery Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Delivery.scene.nasset/Delivery.scene.nasset",
+        "thumbnail": "4ac4caeb-96ca-4832-a0e3-1ce0dc0c991e",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -1332,7 +1360,8 @@
     "573e65f2-5095-449b-ae77-e410b2239673": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Ambulance.scene.nasset/Ambulance Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Ambulance.scene.nasset/Ambulance.scene.nasset",
+        "thumbnail": "6e9de871-2ee9-4e39-a36c-6a1fb85a0783",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -1472,7 +1501,8 @@
     "63c696f1-7cc4-4799-bd39-90ea425c1de2": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor Shovel.scene.nasset/Tractor Shovel Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor Shovel.scene.nasset/Tractor Shovel.scene.nasset",
+        "thumbnail": "48e994a0-40e3-4762-aa2f-26436a6525ca",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -1527,10 +1557,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "68a2345b-0785-4aef-ae52-321c4055aecc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Hatchback.scene.nasset.tex.nasset"
+    },
     "69444d0c-a019-4a14-af44-b4ba8d81ef5d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor.scene.nasset/Tractor Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Tractor.scene.nasset/Tractor.scene.nasset",
+        "thumbnail": "f7067543-2e9e-4fdd-9e47-f61323d962cd",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -1627,6 +1662,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6e9de871-2ee9-4e39-a36c-6a1fb85a0783": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Ambulance.scene.nasset.tex.nasset"
+    },
     "6e9dea1f-72aa-2d17-896a-5af0a3aa6397": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1659,7 +1698,8 @@
     "6f7c9d77-f5d7-487b-8a1c-5b369ca3d246": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Firetruck.scene.nasset/Firetruck Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Firetruck.scene.nasset/Firetruck.scene.nasset",
+        "thumbnail": "85a2255c-dd0c-4645-bd6f-b3737f685ef8",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -1712,6 +1752,10 @@
             "279905d6-22cc-d6bb-ee5b-da18cedb7555",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "73e29dbd-1a50-45c8-9bf4-4729f11b2367": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/SUV.scene.nasset.tex.nasset"
     },
     "73f0ed5d-aa0e-34c3-0cd3-c68fc3f93cf5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1811,6 +1855,10 @@
             "4dd00bb6-36d9-8a8a-ed37-d75099cd09a9"
         ]
     },
+    "7d0d81ec-2468-4d62-908e-6aedf76e3978": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Race Futuristic.scene.nasset.tex.nasset"
+    },
     "7dcb8913-2480-e70f-1075-5b4461b14a7e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1887,6 +1935,10 @@
     "817377a7-6e3b-4c5f-6848-e3b8de1be5db": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Dune_Buggy/Material Instances/Thumbnails/Buggy Bumper.mtli.nasset.tex.nasset"
+    },
+    "819b3b29-5fbf-411c-8c41-22a8c880e800": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/SUV Luxury.scene.nasset.tex.nasset"
     },
     "82c94a7f-3149-abf5-a407-5e123d405d70": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1981,6 +2033,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "85a2255c-dd0c-4645-bd6f-b3737f685ef8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Firetruck.scene.nasset.tex.nasset"
+    },
+    "86545acc-c82e-4152-87e7-1d2af83247a2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Sedan Sports.scene.nasset.tex.nasset"
+    },
     "8657718d-15dd-b206-c024-cc53f192c6f5": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Dune_Buggy/Material Instances/Buggy Frame.mtli.nasset",
@@ -2066,7 +2126,8 @@
     "8cd01ade-2a9d-46ae-bd48-e6e9eba32e5b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Truck Flat.scene.nasset/Truck Flat Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Truck Flat.scene.nasset/Truck Flatbed.scene.nasset",
+        "thumbnail": "2f145da7-da81-4173-9d1e-8b0eb45ab2a9",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -2217,7 +2278,8 @@
     "995ec833-383a-4397-9b81-e43b493641fa": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Garbage Truck.scene.nasset/Garbage Truck Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Garbage Truck.scene.nasset/Garbage Truck.scene.nasset",
+        "thumbnail": "1786efb5-e86e-41a9-b1d4-ba34b6720f93",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -2251,6 +2313,10 @@
             "279905d6-22cc-d6bb-ee5b-da18cedb7555",
             "3a419419-709c-0969-2e06-bc377fb7a63e"
         ]
+    },
+    "9bbfa56b-b89e-4e5c-9964-9b84ea11d5e5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Delivery Flatbed.scene.nasset.tex.nasset"
     },
     "9bd08bfe-7a62-4ee5-af9e-78de9f697abf": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2324,7 +2390,8 @@
     "9ff478d9-4ee4-4b0c-84a2-fa988e490691": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player SUV.scene.nasset/SUV Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player SUV.scene.nasset/SUV.scene.nasset",
+        "thumbnail": "73e29dbd-1a50-45c8-9bf4-4729f11b2367",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -2510,6 +2577,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a9cdb0f5-d36a-461b-8765-3d545073b30f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Van.scene.nasset.tex.nasset"
+    },
     "aa255fa6-4903-007a-962f-f6fc4dbee927": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2525,7 +2596,8 @@
     "aa79e2ea-5bab-42cb-978f-2144c35e47cb": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Formula.scene.nasset/Formula Main.scene.nasset"
+        "path": "Assets/Base_Vehicles/Player_Files/Player Formula.scene.nasset/Formula.scene.nasset",
+        "thumbnail": "40873ab5-dad9-453b-89f5-dc181bf4ed6b"
     },
     "aaa12cdf-ed7b-4f0c-95ae-e3e61bc2192f": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2671,7 +2743,7 @@
     "bd05b030-fcf1-4f14-9d31-abcab9678d02": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Dune Buggy.scene.nasset/Dune Buggy Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Dune Buggy.scene.nasset/Dune Buggy.scene.nasset",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -2960,7 +3032,8 @@
     "d16e897b-666d-4faa-858b-651c403b82cc": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Van.scene.nasset/Van Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Van.scene.nasset/Van.scene.nasset",
+        "thumbnail": "a9cdb0f5-d36a-461b-8765-3d545073b30f",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -3005,7 +3078,8 @@
     "d4de0307-e7aa-434a-9a9e-8fd73cf09ea7": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Truck.scene.nasset/Truck Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Truck.scene.nasset/Truck.scene.nasset",
+        "thumbnail": "3ac88d9b-6d47-454e-bf6c-287b60b4dd58",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -3027,7 +3101,8 @@
     "d8b1c9d3-f89d-44d6-b138-d57a5cfbb319": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Sedan Sports.scene.nasset/Sedan Sports Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Sedan Sports.scene.nasset/Sedan Sports.scene.nasset",
+        "thumbnail": "86545acc-c82e-4152-87e7-1d2af83247a2",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -3119,7 +3194,8 @@
     "db0cbf88-51a9-423c-b382-fe6851fbf60c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Police.scene.nasset/Police Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Police.scene.nasset/Police.scene.nasset",
+        "thumbnail": "dcc8ddd9-f067-4716-9efa-cba0a1b1a7fe",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -3140,6 +3216,10 @@
             "90228bd9-984b-ec7d-5731-520cba01bee7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "dcc8ddd9-f067-4716-9efa-cba0a1b1a7fe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Police.scene.nasset.tex.nasset"
     },
     "dd9e5b56-d6ff-acab-5f8d-3862cc81f98a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3292,7 +3372,8 @@
     "e653d6b9-052f-4db7-af37-765dbf299b87": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player SUV Luxury.scene.nasset/SUV Luxury Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player SUV Luxury.scene.nasset/SUV Luxury.scene.nasset",
+        "thumbnail": "819b3b29-5fbf-411c-8c41-22a8c880e800",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -3446,7 +3527,8 @@
     "f08efa76-5fcb-4b15-b259-da0c1f28261e": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Base_Vehicles/Player_Files/Player Delivery Flat.scene.nasset/Delivery Flat Main.scene.nasset",
+        "path": "Assets/Base_Vehicles/Player_Files/Player Delivery Flat.scene.nasset/Delivery Flatbed.scene.nasset",
+        "thumbnail": "9bbfa56b-b89e-4e5c-9964-9b84ea11d5e5",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
@@ -3524,6 +3606,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f68a9723-1d2d-41f3-87d4-da2aeb251b46": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Tractor Police.scene.nasset.tex.nasset"
+    },
     "f6d612f6-ea35-0148-9aba-89acd305647b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3552,6 +3638,10 @@
         "dependencies": [
             "9f3de7be-b4da-deb2-73da-208ebdc138d9"
         ]
+    },
+    "f7067543-2e9e-4fdd-9e47-f61323d962cd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Tractor.scene.nasset.tex.nasset"
     },
     "f7c26609-3a53-8d15-f1c8-1dffe9d70732": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
