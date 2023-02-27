@@ -33,7 +33,7 @@
                     "instanceGuid": "444e82bc-c7cc-4cee-b149-b8aae92cf930",
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
-                            0.6,
+                            1,
                             0.0,
                             0.0
                         ]
@@ -66,8 +66,8 @@
                                     ],
                                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                         "rotation": [
-                                            180.0,
-                                            90.0,
+                                            0.0,
+                                            -90.0,
                                             0.0
                                         ]
                                     }
@@ -84,7 +84,7 @@
                     "instanceGuid": "dc2236d6-5bcf-4d69-9f34-cf906a7484cc",
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
-                            -0.6,
+                            -1,
                             0.0,
                             0.0
                         ]
