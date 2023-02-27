@@ -803,6 +803,10 @@
             "161f8829-8e35-39f3-c3c4-5fb1f9e1a466"
         ]
     },
+    "3a2aab48-ea5b-4a4f-8828-64781ed4429d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Base_Vehicles/Player_Files/Thumbnails/Buggy.scene.nasset.tex.nasset"
+    },
     "3a419419-709c-0969-2e06-bc377fb7a63e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2744,6 +2748,7 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Base_Vehicles/Player_Files/Player Dune Buggy.scene.nasset/Dune Buggy.scene.nasset",
+        "thumbnail": "3a2aab48-ea5b-4a4f-8828-64781ed4429d",
         "tags": [
             "c642f003-618a-45dc-a031-b16f61473103"
         ],
