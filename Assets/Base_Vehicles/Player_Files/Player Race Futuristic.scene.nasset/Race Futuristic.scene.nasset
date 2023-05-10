@@ -15,7 +15,6 @@
     "children": [
         {
             "typeGuid": "024630c0-b538-4b7a-8c20-d794ff8e7919",
-            "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "024630c0-b538-4b7a-8c20-d794ff8e7919": {
                 "steerAssistRatio": 1.0,
                 "steeringResponsivness": 3.0,
@@ -40,7 +39,6 @@
             "children": [
                 {
                     "typeGuid": "b0ec7111-5de9-4039-bee2-d915f63f929e",
-                    "instanceGuid": "4ca540b9-a73b-41c2-b993-0a546cb6cb62",
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
                             0.0,
@@ -77,7 +75,6 @@
                 },
                 {
                     "typeGuid": "2fe2589c-79f4-4456-84e2-7b57af139e49",
-                    "instanceGuid": "6bc2ecd6-fdc9-5bae-a5c7-5cc849bffc88",
                     "data_components": [
                         {
                             "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
@@ -130,7 +127,6 @@
                         },
                         {
                             "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
-                            "instanceGuid": "adeed443-251c-4ae7-b176-49f122eb4a8b",
                             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                                 "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7",
                                 "comOffset": [
