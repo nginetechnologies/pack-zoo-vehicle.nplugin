@@ -20,7 +20,7 @@
                 "radius": 0.30,
                 "width": 0.25,
                 "minSuspensionLength": 0.1,
-                "maxSuspensionLength": 0.2,
+                "maxSuspensionLength": 0.4,
                 "suspensionStiffness": 1.1,
                 "suspensionDamping": 0.15,
                 "forwardGrip": 5.0,

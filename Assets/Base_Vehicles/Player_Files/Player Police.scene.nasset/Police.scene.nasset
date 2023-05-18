@@ -26,8 +26,8 @@
             "typeGuid": "024630c0-b538-4b7a-8c20-d794ff8e7919",
             "instanceGuid": "ef2c172e-dc69-4ddb-9b11-5078f9c3065f",
             "024630c0-b538-4b7a-8c20-d794ff8e7919": {
-                "steerAssistRatio": 1.0,
-                "steeringResponsivness": 3.0,
+                "steerAssistRatio": 0.2,
+                "steeringResponsivness": 1.0,
                 "steeringReleaseResponsivness": 10.0,
                 "accelerationResponsivness": 3.0,
                 "accelerationReleaseResponsivness": 20.0,
@@ -85,7 +85,7 @@
                         "body_flags": 4,
                         "maximumAngularVelocity": 2700.0,
                         "overriddenMass": 1600.0,
-                        "gravityScale": 2.5
+                        "gravityScale": 1
                     },
                     "data_components": [
                         {
@@ -104,10 +104,10 @@
                             "typeGuid": "d91b1554-ed01-40a7-90eb-638fdb6e8ce0",
                             "instanceGuid": "361e6dd1-7136-471c-92df-b204c2274df9",
                             "d91b1554-ed01-40a7-90eb-638fdb6e8ce0": {
-                                "minRPM": 400.0,
-                                "maxRPM": 600.0,
-                                "maxTorque": 2000.0,
-                                "reverseGearRatio": -2.9,
+                                "minRPM": 1000.0,
+                                "maxRPM": 6000.0,
+                                "maxTorque": 1400.0,
+                                "reverseGearRatio": -0.5,
                                 "gearSwitchTime": 0.05,
                                 "clutchReleaseTime": 0.05,
                                 "shiftUpRPM": 550.0,
@@ -120,6 +120,42 @@
                                 }
                             ]
                         },
+			{
+                             "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+                             "instanceGuid": "6ad819a0-7c26-41ed-89b0-a795b9398aee",
+                             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                 "comOffset": [
+                                     0.0,
+                                     0.0,
+                                     -1.2
+                                 ]
+                             },
+                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                 "position": [
+                                     0.0,
+                                     0.0,
+                                     1.2
+                                 ]
+                             },
+                             "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+                                 "size": [
+                                     1.0,
+                                     1.6,
+                                     0.2
+                                 ],
+                                 "half_extent": [
+                                     1.0,
+                                     1.6,
+                                     0.2
+                                 ]
+                             },
+                             "data_components": [
+                                 {
+                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                     "name": "Vehicle Base Collider"
+                                 }
+                             ]
+                         },
                         {
                             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
                             "instanceGuid": "0015c87d-4104-47a4-b89e-c410dc07572c",
