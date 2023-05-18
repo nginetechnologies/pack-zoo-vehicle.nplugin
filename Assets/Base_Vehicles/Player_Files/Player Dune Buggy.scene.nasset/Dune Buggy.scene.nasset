@@ -31,7 +31,7 @@
                 "steeringReleaseResponsivness": 10.0,
                 "accelerationResponsivness": 3.0,
                 "accelerationReleaseResponsivness": 20.0,
-                "maxPitchRollAngle": 39.9999
+                "maxPitchRollAngle": 40.0
             },
             "data_components": [
                 {
@@ -120,9 +120,59 @@
                                 }
                             ]
                         },
+			{
+                            "typeGuid": "e81f4e62-fee0-4182-9c1a-a47c053b813f",
+                            "instanceGuid": "6ad819a0-7c26-41ed-89b0-a795b9398aee",
+                            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                                "physical_material": "3d17911b-a4ed-4afd-b480-aedbefd0f13b",
+                                "comOffset": [
+                                    0.0,
+                                    0.0,
+                                    -0.7
+                                ]
+                            },
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ]
+                            },
+                            "e81f4e62-fee0-4182-9c1a-a47c053b813f": {
+                                "size": [
+                                    1.0,
+                                    1.6,
+                                    0.2
+                                ],
+                                "half_extent": [
+                                    1.0,
+                                    1.6,
+                                    0.2
+                                ]
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Vehicle Base Collider"
+                                }
+                            ]
+                        },
                         {
                             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
                             "instanceGuid": "816f3b73-0355-4dad-8154-5c9e3d5b6fad",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Buggy Body"
+                                }
+                            ],
+                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                "position": [
+                                    0.0,
+                                    0.0,
+                                    -0.5
+                                ]
+                            },	
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                                 "scene": "111f30af-1611-4e58-b928-aecba9c23fc7"
                             }

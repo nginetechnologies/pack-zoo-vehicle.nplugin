@@ -17,10 +17,10 @@
             "instanceGuid": "e2d89ab6-6658-473c-96b9-ee012738082e",
             "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
                 "maxSteeringAngle": 0.0,
-                "radius": 0.30,
-                "width": 0.25,
+                "radius": 0.5,
+                "width": 0.5,
                 "minSuspensionLength": 0.1,
-                "maxSuspensionLength": 0.2,
+                "maxSuspensionLength": 0.6,
                 "suspensionStiffness": 1.1,
                 "suspensionDamping": 0.15,
                 "forwardGrip": 5.0,

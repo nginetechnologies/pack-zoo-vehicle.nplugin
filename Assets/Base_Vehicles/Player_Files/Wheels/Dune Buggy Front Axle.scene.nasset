@@ -41,7 +41,7 @@
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Right Wheel"
+                            "name": "Front Right Wheel"
                         }
                     ],
                     "children": [
@@ -86,10 +86,10 @@
                 },
                 {
                     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-                    "instanceGuid": "361c957e-503b-4c35-97b5-92e01a0e13d8",
+                    "instanceGuid": "c791bd94-1b2b-45eb-9375-1546b6b59ca1",
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
-                            -1,
+                            -1.0,
                             0.0,
                             0.0
                         ]
@@ -103,14 +103,7 @@
                     "children": [
                         {
                             "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
-                            "instanceGuid": "145585b2-2fc6-4b7d-8ae0-8b8a9602f6bc",
-                            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                                "rotation": [
-                                    0.0,
-                                    -90.0,
-                                    0.0
-                                ]
-                            },
+                            "instanceGuid": "b9c0588e-2449-415e-ac8f-37844c3b7979",
                             "a693a6f2-46a7-4c47-a90a-957ce3fd686f": {
                                 "maxSteeringAngle": 30.0,
                                 "maxHandbrakeTorque": 0.0,
@@ -120,6 +113,25 @@
                                 {
                                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                                     "templateInstanceGuid": "e2d89ab6-6658-473c-96b9-ee012738082e"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "1d1c5273-60f1-45ca-94a3-923de5fe686a",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "c698ad4c-3983-48fe-9bec-77df86e25f62"
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "rotation": [
+                                            0.0,
+                                            -90.0,
+                                            0.0
+                                        ]
+                                    }
                                 }
                             ]
                         }
