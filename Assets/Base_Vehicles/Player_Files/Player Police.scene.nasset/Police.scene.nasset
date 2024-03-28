@@ -44,7 +44,10 @@
                 {
                     "typeGuid": "194FFAFF-AB13-464A-AE69-788646258B9F",
                     "duration": 120
-                }
+                },
+		{
+		    "typeGuid": "87a8c14a-291b-4d8f-9bf7-69d2d290c2aa"
+		}
             ],
             "children": [
                 {
