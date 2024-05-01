@@ -1,0 +1,664 @@
+{
+    "guid": "5ac63bf5-ee0d-9971-758f-6a0af34b3a29",
+    "source": "../SC_Watercraft.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "1fcef1ad-eff9-2e46-2ed1-892f00c4e00e",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Watercraft"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5ab71d79-a023-d598-a8c3-530b12da9f68",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arrow"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3371199e-709a-85fc-a13f-adf9553c9413"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "452f49bc-5878-18bb-84ae-923c06cda06a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arrow Standing"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a6ddbce9-c2c1-4c4a-f621-44db8b8239ba"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "154e71e8-5b16-43fe-3c13-10048c675742",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Fan"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6438e86b-1234-6a94-5391-3a4fb368b520"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c1bd3ece-d75c-ea22-8c43-e03d3184e30e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Fishing Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "db38e92f-0190-cdaf-c45b-a22a30860de2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ea81c84f-b593-6d84-f982-266bdaad7b67",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat House 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2fc74352-9960-f172-4f19-bbd105fa1c22"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "30daf733-a4e8-3b11-d7d8-6e444c6489a8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat House 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "df89d9f2-54a8-484e-c2fe-8422042c869e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e11cca4f-9bcb-ff72-8f2d-74342cb7aee1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat House 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a15c782b-feb2-56e8-c6fb-637b85a02bcc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4859b7c2-8692-b85f-5310-ad0e5da9940b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat House 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b9f313bb-6a64-0950-7522-2286ce55b649"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "88632b4e-0a90-024b-fd76-3c9428971170",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Row Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "40d9c1f1-24f0-ba48-28c4-004a706c028c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "15234769-cf9a-a804-9125-67735ee98138",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Row Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c2344429-6e10-6c9c-469e-a68d0cd7ceba"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b8db1683-091a-3f3e-13f8-aef9acefbf44",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Sail 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f9e7bc74-f897-d65c-7cb8-789f0575d6c8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b28cc022-74d8-1260-deef-7fe66c963496",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Sail 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e7bba1a0-f7b4-79f5-bc86-252102d32c06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4c949305-7241-22d8-5c52-b0da52291228",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Speed 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3b32bffd-7f09-8154-cef1-6331fdbc9dbd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "69400189-936d-9748-3642-351940c60ad4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Speed 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "27cd93bb-f606-7c4c-56dc-f27d53a55747"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "af1479ee-262f-fd90-67a5-d88779ee7e53",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Speed 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b4362df9-96b0-6c14-8288-96236bdd92a3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aa1ec3b3-4520-eb1e-434f-0813ba8ed383",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Speed 4"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3b6bfab4-8c3c-24f3-d3ab-3949c7b377d3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f00f75e9-2092-fe42-6491-ee2cd6c20ae5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Speed 5"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "66cad6f0-b0a4-bd9e-78cb-929280518f27"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cd5910ba-697f-3857-dc29-50327155ec5d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Speed 6"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "45dc1c18-fcc7-e017-a4a1-0da2385441f4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b5c8bdd6-0a58-e40a-aab5-1d86f2032e89",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Speed 7"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "fb32bf6d-d882-2832-f4da-3b9c5f84df8b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bff5015b-0ec0-8881-af71-018f8ce92bfa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Speed 8"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3f0cb399-8eb3-bcd3-baaf-3679ca467a9e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "46c134af-6d30-194d-cfa0-be3b35f95c30",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Speed 9"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c1952ec9-19f4-18c9-2863-63e34fec2a69"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "53e676b3-1657-1470-73cc-11da7f2850f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Speed 10"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d82bc7f3-6be2-79e5-e404-05e1dbd29cae"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7f3aead0-1deb-8068-abb9-35a42b0ed7b1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Tow 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d7ba83e7-e480-09f3-8993-e24b17bc578a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "09224401-b1ac-6ee1-9d4b-d449a9fc3a90",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Tow 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d3edcbb3-8bcb-1081-399b-6fb9c49be58f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c27a39a2-e175-db08-6cc3-1273b06242a5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Tug 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7ccfd100-e617-edf8-d163-9c91cff591c7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "edbfdc99-9b0e-0fd2-e0f7-3636b1bab5c9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Tug 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e45bf8ee-1b99-8d5c-7fa4-d544485d6e1b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "45fce49e-b847-396e-ba57-74639445a041",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Boat Tug 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2f33c693-cbe3-ff3f-1f1c-49a00e675694"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ae02fc78-dacc-d149-035e-2655f55b352d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Buoy"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "248052bc-c22f-52fd-a54e-fa3063b2e82b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3f7b1489-5772-0332-6db4-b033e1e7fba1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Buoy Flag"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7348232c-a4a9-76c1-a092-29264936d25d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "622c73fc-0757-1662-cb34-4cea2c7009cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cargo Container 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "24d4ae65-6bea-d96c-3d92-9334f097a5cf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0e41a10e-223d-862a-9cca-60a7f27b0189",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cargo Container 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "820ce455-cb6c-4236-08d2-b75c33217143"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "523f30bf-bca3-d298-74f1-b6b77d2c0550",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cargo Container 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d5d064f3-f318-afcd-98e6-a31c0bf93dc6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "69cf7b05-9704-6869-63fb-d6573748b483",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cargo Pile 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "691ddfbe-e559-1e40-efc5-de917aa433db"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3083df78-6514-6bcb-195d-3fa4f6acbe15",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cargo Pile 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "104c9452-0ddc-05e4-14a9-b5803dc0f883"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0ad28803-ae0f-1b4f-cf4c-68f1cf3410db",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "9983566c-7026-2d58-5aa0-bd0d331e6d07"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "42d89037-11eb-2274-2493-aa5ec6c91ac4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gate Finish"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d74cb53a-fb71-9f79-f2fc-3a62333f118d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f5d5cf97-8251-c047-9f7b-3a786cdaeebc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a27e2e9f-b6b4-75c4-4467-c7653f95b292"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "43de87eb-b08e-ec84-3b3b-7e8355ffd4b9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ramp Wide"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8d91c73d-0e47-8843-60c6-fdf5dcf6d0ae"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "be365a6b-61f6-3c3c-f1b1-3b0ceefb0b25",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ship Cargo 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "864fc552-f4fb-e006-3796-e3ed27eeb96d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c72b52bc-d99a-7f6f-8b7a-5468ba64abc2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ship Cargo 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f4c0d079-4f88-57ae-9bf7-cdf334dda783"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c14821ba-226f-b865-f2e2-d9c2414c58fc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ship Cargo 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b71c849c-1940-ec7d-9e6a-6e34c366b5dd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "baab74f4-e593-750d-f54c-88a6dabbfc8a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ship Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "12eb7742-17c9-0130-09eb-f1c1d9bdcc70"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b25397d3-62b2-b8ea-0b10-09cebe862836",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ship Ocean Liner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "a245982a-ff0d-e171-36d0-61d0dd8d80e6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "70620269-8e4c-e523-0234-d01eea879a85",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ship Ocean Liner Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "aceb6b7d-bd94-14a5-5296-4833bd94dd58"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "20676699-7d6b-d4fc-5c63-bcd4fa2c83f0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ship Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "225fdb46-da6b-0c23-0afe-a2d7b1ec9181"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3075b408-be33-5adb-0926-30db9875940a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ship Small Ghost"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "79dcf824-988b-a2d7-a261-c5f3d341086a"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "5ac63bf5-ee0d-9971-758f-6a0af34b3a29"
+    },
+    "dependencies": [
+        "3371199e-709a-85fc-a13f-adf9553c9413",
+        "a6ddbce9-c2c1-4c4a-f621-44db8b8239ba",
+        "6438e86b-1234-6a94-5391-3a4fb368b520",
+        "db38e92f-0190-cdaf-c45b-a22a30860de2",
+        "2fc74352-9960-f172-4f19-bbd105fa1c22",
+        "df89d9f2-54a8-484e-c2fe-8422042c869e",
+        "a15c782b-feb2-56e8-c6fb-637b85a02bcc",
+        "b9f313bb-6a64-0950-7522-2286ce55b649",
+        "40d9c1f1-24f0-ba48-28c4-004a706c028c",
+        "c2344429-6e10-6c9c-469e-a68d0cd7ceba",
+        "f9e7bc74-f897-d65c-7cb8-789f0575d6c8",
+        "e7bba1a0-f7b4-79f5-bc86-252102d32c06",
+        "3b32bffd-7f09-8154-cef1-6331fdbc9dbd",
+        "27cd93bb-f606-7c4c-56dc-f27d53a55747",
+        "b4362df9-96b0-6c14-8288-96236bdd92a3",
+        "3b6bfab4-8c3c-24f3-d3ab-3949c7b377d3",
+        "66cad6f0-b0a4-bd9e-78cb-929280518f27",
+        "45dc1c18-fcc7-e017-a4a1-0da2385441f4",
+        "fb32bf6d-d882-2832-f4da-3b9c5f84df8b",
+        "3f0cb399-8eb3-bcd3-baaf-3679ca467a9e",
+        "c1952ec9-19f4-18c9-2863-63e34fec2a69",
+        "d82bc7f3-6be2-79e5-e404-05e1dbd29cae",
+        "d7ba83e7-e480-09f3-8993-e24b17bc578a",
+        "d3edcbb3-8bcb-1081-399b-6fb9c49be58f",
+        "7ccfd100-e617-edf8-d163-9c91cff591c7",
+        "e45bf8ee-1b99-8d5c-7fa4-d544485d6e1b",
+        "2f33c693-cbe3-ff3f-1f1c-49a00e675694",
+        "248052bc-c22f-52fd-a54e-fa3063b2e82b",
+        "7348232c-a4a9-76c1-a092-29264936d25d",
+        "24d4ae65-6bea-d96c-3d92-9334f097a5cf",
+        "820ce455-cb6c-4236-08d2-b75c33217143",
+        "d5d064f3-f318-afcd-98e6-a31c0bf93dc6",
+        "691ddfbe-e559-1e40-efc5-de917aa433db",
+        "104c9452-0ddc-05e4-14a9-b5803dc0f883",
+        "9983566c-7026-2d58-5aa0-bd0d331e6d07",
+        "d74cb53a-fb71-9f79-f2fc-3a62333f118d",
+        "a27e2e9f-b6b4-75c4-4467-c7653f95b292",
+        "8d91c73d-0e47-8843-60c6-fdf5dcf6d0ae",
+        "864fc552-f4fb-e006-3796-e3ed27eeb96d",
+        "f4c0d079-4f88-57ae-9bf7-cdf334dda783",
+        "b71c849c-1940-ec7d-9e6a-6e34c366b5dd",
+        "12eb7742-17c9-0130-09eb-f1c1d9bdcc70",
+        "a245982a-ff0d-e171-36d0-61d0dd8d80e6",
+        "aceb6b7d-bd94-14a5-5296-4833bd94dd58",
+        "225fdb46-da6b-0c23-0afe-a2d7b1ec9181",
+        "79dcf824-988b-a2d7-a261-c5f3d341086a"
+    ]
+}
