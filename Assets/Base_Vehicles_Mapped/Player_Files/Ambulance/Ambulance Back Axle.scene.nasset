@@ -1,0 +1,140 @@
+{
+    "guid": "9e3df899-04ad-479d-b5c0-41cfb011b809",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "41dfbaf3-01b4-4faa-97ae-9112d1c7dc50",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Axle"
+        }
+    ],
+    "dependencies": [
+        "2de464c9-6dfc-40f3-a337-5e1a63424157"
+    ],
+    "children": [
+        {
+            "typeGuid": "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13",
+            "instanceGuid": "b2e57f9b-8ff2-4b8c-a7d1-e584d4d8d462",
+            "6ab4b4e1-d1d8-481a-973d-3f6f7cc47e13": {
+                "powerRatio": 0.3,
+                "powerSplit": 0.5,
+                "differentialRatio": 3.42,
+                "antiRollBarStiffness": 500.0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Back Axle"
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "972f972d-38a5-4fd3-98d8-e3f24fb84d06",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.6,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Back Right"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                            "instanceGuid": "2815c060-48c8-4f42-a1b9-85d268cb6f24",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "32408f1c-24de-444a-8cad-2e90dc24beb4"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "8e8ab1b1-ba02-45c8-b03b-5be15e1ea8e3",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "66f0c817-544b-4b09-8dee-2238fd96994f"
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "rotation": [
+                                            180.0,
+                                            90.0,
+                                            0.0
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "2de464c9-6dfc-40f3-a337-5e1a63424157"
+                    }
+                },
+                {
+                    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+                    "instanceGuid": "63dccaa1-ca53-43a7-bbc2-535b7cfc57c2",
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            -0.6,
+                            0.0,
+                            0.0
+                        ]
+                    },
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Back Left"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "a693a6f2-46a7-4c47-a90a-957ce3fd686f",
+                            "instanceGuid": "d02ed2c8-fea8-4a2b-a9c0-8837f844bfe3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "32408f1c-24de-444a-8cad-2e90dc24beb4"
+                                }
+                            ],
+                            "children": [
+                                {
+                                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+                                    "instanceGuid": "b46e0e07-94ce-4483-9d22-d301881a1a37",
+                                    "data_components": [
+                                        {
+                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                            "templateInstanceGuid": "66f0c817-544b-4b09-8dee-2238fd96994f"
+                                        }
+                                    ],
+                                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                                        "rotation": [
+                                            180.0,
+                                            90.0,
+                                            0.0
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                        "scene": "2de464c9-6dfc-40f3-a337-5e1a63424157"
+                    }
+                }
+            ]
+        }
+    ],
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "9e3df899-04ad-479d-b5c0-41cfb011b809"
+    }
+}
