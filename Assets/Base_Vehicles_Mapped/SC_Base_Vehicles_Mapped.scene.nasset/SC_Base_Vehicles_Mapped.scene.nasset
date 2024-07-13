@@ -1,0 +1,650 @@
+{
+    "guid": "65791804-3851-3d90-0cae-35cb24110487",
+    "source": "../SC_Base_Vehicles_Mapped.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a218f514-2b5c-9ee6-2e0e-100782756839",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Base Vehicles Mapped"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "383b9137-6766-cd43-7acf-18c7289613b3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Dark"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "95bfe20a-cca6-77ee-cc3c-b600a597acca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a8f9b4c1-3df6-f4da-36af-dc8aeeb62b87",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Default"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "946e8e3d-10b9-f03e-8af9-38df3601390a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3dae0d85-7318-5e64-6911-6827760a9e9f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Racing"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1d95057d-f7ef-d348-a4fd-45003041258c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3b42b5a3-65f3-192b-62d6-6f09954651fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Tractor Back"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "27ca4b3c-a642-cdd5-a9e0-8368399fe1c2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3cafa891-d771-12a9-48dd-84d5243e40b2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Tractor Back Dark"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5dd141d5-a141-be89-02a2-32e0808c9be7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "eb3fcb3a-34bd-2555-f269-bf8298e47a18",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Tractor Front Dark"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ce9d369b-5490-8a49-ec1d-2181e78cdc87"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c0de44e4-be19-c088-d59f-7727435e8004",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Tractor Front"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cf32af31-03ae-3920-494d-0b2309369a8b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bcf7a825-7a3e-311f-d8c1-00eaa076653a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wheel Truck"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3ae81003-29b3-9da9-4c31-f7dcdc020273"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8057818e-3f1d-cb70-32bb-87ce96af0aa3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Box"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cd32ff6b-34a7-c330-b4e7-0bec97eeb310"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "439b1be5-748a-ac8a-3215-14ee7d6c4ade",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cone"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dc4e50f3-b7f4-d95e-06a2-2aab81f5fd5e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "378b5843-03ac-a80e-97be-53cf6162f62b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cone Flat"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "22a9c0b9-f3e3-09d3-46de-be919e2026d9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "26ff86f2-0430-19ad-8fc8-31e9024e7cdf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Bolt"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "088acda6-d293-2759-7bf9-4e1cbe9d7cd5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1eeb494d-79eb-cd84-ea3e-d40b43646660",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Bumper"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f55619f2-44db-aecd-1e73-ce67635b9b9a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "d78ec2a1-acc3-3f27-99c3-e1507b1418a2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Door"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4908712e-598e-a9ae-337c-9289cb8b5503"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ef38ea5b-b01d-6796-5529-a546a4bf7010",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Door Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1d4ef71c-2824-b9b8-ad04-1d352b32bb1b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a618db46-ba2c-de34-9415-b2a912c4b100",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Drivetrain"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "35aa9b24-a5d0-6b57-66a0-ea3607633e7e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "71b5ad0f-568f-457d-fab0-abcc1160cd7a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Drivetrain Axle"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dec8a87c-e148-f592-3d80-2d5559ad3377"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6170bcef-ba57-f833-8cd6-293f8adc06bf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Nut"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "4f94dce2-a2a1-a0a2-f94b-328070acc6dd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "db064a35-0ff0-6183-45a8-c8aaa19337b8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Plate 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1a4c4b3d-1253-414a-5f04-c739256d36be"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "49415373-e3b2-87f7-783a-68033b17a3b8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Plate 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b7451978-da70-f625-b330-26b4de4c0713"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2a271277-5f4d-a909-22ee-79ad26b9ea85",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Plate Small 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bace0522-e621-f7a1-7e6b-55e5583bc223"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c4e1dd4e-7523-d881-f703-2f1b101a2b51",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Plate Small 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "14ff7122-c389-c5b9-1e91-b665ece5ff06"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "7dbc3100-3e3a-0f19-8ef1-72ef47764501",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Spoiler 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "72711e36-dad0-5477-9ab5-5f6ca33d1aa5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2857169a-fb12-8054-98dc-f260f94d885e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Spoiler 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3534cbc7-b3d1-b214-2ae8-d335bcc783e5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "715d5ea7-4c8a-c28c-7be7-9c2cb7dbce08",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Debris Tire"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "845231f4-536c-554e-5505-e00d2c8bc7c2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5b86e32e-a117-ee27-992a-85c2edffcc02",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ambulance Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "18335e97-ad80-2ffa-3743-8be21cb15382"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1a9ae10f-98ac-12af-9ff8-e830def70a03",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Delivery Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5a1a925e-ac2d-9fb5-b493-89dcf30ca077"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5006653c-3532-ad3f-67af-d0777c0fe7ce",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Delivery Flat Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "37a61e32-4293-aa11-ce91-d1938b1099ad"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "27b14a4f-8973-47d0-aecf-658f809ae231",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Firetruck Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0e9e4658-aa6a-04a4-dce4-9c89338f9b36"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "51ce1069-2079-711e-10cc-5199b0579d06",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Garage Truck Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "189d97c7-4e7e-9639-a7f9-736aa67c2356"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1237d3f4-3439-5193-bd4a-3bbe6079c4e9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Hatchback Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "492421a9-905b-84f0-22b3-3e22c93b8aa1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1d9f25a5-ddcd-513e-3cb8-bdd50e8ef986",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Police Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bf9b8479-9fd5-2882-7e3a-54151f285bab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ed11036c-dc77-22e3-4356-91589da5b1aa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Race Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "49ebddfa-60f7-1de4-d21c-6ee3c2560d0c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1e5d0d23-dcdb-c273-1765-125aebca1814",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Race Future Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "45b9c8d0-3d38-e708-4088-db4bcfa2500e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8e4f9af8-8b87-9c9a-ee62-4be3686c72a9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sedan Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "0869aa50-cc90-800e-3752-958bc7a6fd19"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5ce7fcfa-4203-8b3b-dc9e-5e7e998b7a46",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sedan Sports Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "13f1911d-92b2-643d-c5d0-3ecddc6b7d72"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "04c74b99-2a04-10c4-af33-7bd3e2b23028",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SUV Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b722b878-0344-b622-886d-e718be4167cb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "99cd922c-db30-d781-6290-5927c25d1f36",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SUV Luxury Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6a65ef53-9943-0139-1574-01ff9db52aa6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "062e0bfd-2f5b-7329-568c-b0a040e78155",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Taxi Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8a5ea858-44f6-e7af-c289-7dac782a2255"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "76b56f64-abbf-2538-abb6-682059672c01",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "74f94427-6218-22ec-52ea-7498f726d2e2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d893e20-17a5-eccc-b27f-d73c4fce7600",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Police Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ac7f208e-b167-3fdd-bb5b-b4adcf013e92"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fd6d47a4-23b8-eec8-4e30-5e484beb50ca",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tractor Shovel Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f6aa122d-0aca-92a5-bf41-411e6590a573"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f8f0a68b-e8d6-0183-ba68-1396d18035bf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Truck Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "152d2604-c497-eb62-72c3-6f8ac7ecea9e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e162dd80-9f16-b161-5a2d-a53887895b7e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Truck Flat Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "88160cb4-9e6b-ac23-74b3-88a2c503882b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ae926dce-6a80-aab0-1996-98fda8bfacdd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Van Body"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "55b5313e-2e9f-2c46-6670-28360d7d82e0"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "65791804-3851-3d90-0cae-35cb24110487"
+    },
+    "dependencies": [
+        "95bfe20a-cca6-77ee-cc3c-b600a597acca",
+        "946e8e3d-10b9-f03e-8af9-38df3601390a",
+        "1d95057d-f7ef-d348-a4fd-45003041258c",
+        "27ca4b3c-a642-cdd5-a9e0-8368399fe1c2",
+        "5dd141d5-a141-be89-02a2-32e0808c9be7",
+        "ce9d369b-5490-8a49-ec1d-2181e78cdc87",
+        "cf32af31-03ae-3920-494d-0b2309369a8b",
+        "3ae81003-29b3-9da9-4c31-f7dcdc020273",
+        "cd32ff6b-34a7-c330-b4e7-0bec97eeb310",
+        "dc4e50f3-b7f4-d95e-06a2-2aab81f5fd5e",
+        "22a9c0b9-f3e3-09d3-46de-be919e2026d9",
+        "088acda6-d293-2759-7bf9-4e1cbe9d7cd5",
+        "f55619f2-44db-aecd-1e73-ce67635b9b9a",
+        "4908712e-598e-a9ae-337c-9289cb8b5503",
+        "1d4ef71c-2824-b9b8-ad04-1d352b32bb1b",
+        "35aa9b24-a5d0-6b57-66a0-ea3607633e7e",
+        "dec8a87c-e148-f592-3d80-2d5559ad3377",
+        "4f94dce2-a2a1-a0a2-f94b-328070acc6dd",
+        "1a4c4b3d-1253-414a-5f04-c739256d36be",
+        "b7451978-da70-f625-b330-26b4de4c0713",
+        "bace0522-e621-f7a1-7e6b-55e5583bc223",
+        "14ff7122-c389-c5b9-1e91-b665ece5ff06",
+        "72711e36-dad0-5477-9ab5-5f6ca33d1aa5",
+        "3534cbc7-b3d1-b214-2ae8-d335bcc783e5",
+        "845231f4-536c-554e-5505-e00d2c8bc7c2",
+        "18335e97-ad80-2ffa-3743-8be21cb15382",
+        "5a1a925e-ac2d-9fb5-b493-89dcf30ca077",
+        "37a61e32-4293-aa11-ce91-d1938b1099ad",
+        "0e9e4658-aa6a-04a4-dce4-9c89338f9b36",
+        "189d97c7-4e7e-9639-a7f9-736aa67c2356",
+        "492421a9-905b-84f0-22b3-3e22c93b8aa1",
+        "bf9b8479-9fd5-2882-7e3a-54151f285bab",
+        "49ebddfa-60f7-1de4-d21c-6ee3c2560d0c",
+        "45b9c8d0-3d38-e708-4088-db4bcfa2500e",
+        "0869aa50-cc90-800e-3752-958bc7a6fd19",
+        "13f1911d-92b2-643d-c5d0-3ecddc6b7d72",
+        "b722b878-0344-b622-886d-e718be4167cb",
+        "6a65ef53-9943-0139-1574-01ff9db52aa6",
+        "8a5ea858-44f6-e7af-c289-7dac782a2255",
+        "74f94427-6218-22ec-52ea-7498f726d2e2",
+        "ac7f208e-b167-3fdd-bb5b-b4adcf013e92",
+        "f6aa122d-0aca-92a5-bf41-411e6590a573",
+        "152d2604-c497-eb62-72c3-6f8ac7ecea9e",
+        "88160cb4-9e6b-ac23-74b3-88a2c503882b",
+        "55b5313e-2e9f-2c46-6670-28360d7d82e0"
+    ]
+}
