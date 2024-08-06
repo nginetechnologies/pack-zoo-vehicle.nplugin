@@ -1,0 +1,74 @@
+{
+    "guid": "234e5dbc-b3f2-60a9-eb32-f80a8cf13407",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "72053b34-79a6-d406-babc-83006d3e16dc",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "dbd3246c-d57c-42e5-aaeb-8c1caa06d0ae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Coal Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "2c6eff8c-c3a0-17cf-ae8e-cdfd20ac5d30",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Train Carriage Coal Trains Kenney Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "0fc36b8e-74f3-eb56-9523-bf13a3e2c244",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Train Carriage Coal Trains Kenney"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "10c274c6-9012-c0b9-d868-c9dd23a5c4fd",
+                                "material_instance": "5eba1812-e868-b1cb-255c-a7b0a7fc1cf9"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "10c274c6-9012-c0b9-d868-c9dd23a5c4fd"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "234e5dbc-b3f2-60a9-eb32-f80a8cf13407"
+    },
+    "dependencies": [
+        "5eba1812-e868-b1cb-255c-a7b0a7fc1cf9",
+        "10c274c6-9012-c0b9-d868-c9dd23a5c4fd",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}

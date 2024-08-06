@@ -1,0 +1,692 @@
+{
+    "guid": "8661995d-dca4-c262-87cf-0b4beada424c",
+    "source": "../SC_Trains_Kenney.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "b3720ce8-2c19-7852-6fae-ba1f47a5d77c",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Trains Kenney"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "58da57a4-c126-d59d-01fc-6a57982472f3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Track"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "db8ac13d-1248-0614-c612-17a35b9e5a37"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0122a4b4-59e8-2abe-4cef-836af1931683",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Track Detailed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "23e27dd4-2d86-e106-9a9a-9843efdcebec"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f9d9b848-1ddf-9572-e865-d8d054abd885",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Track Rail"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "91e657a3-acc4-6706-5d59-b2120527d8b4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "579a61da-b35c-5fba-4520-2bd76de56c12",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Track Segment"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ea9046ea-0915-b871-23bb-170fdbb27d35"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "78d4adfe-eb7d-5ac8-caad-87e362ad0ef7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Track Single"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c0d20414-ebad-37d0-14b9-3dcea0af7b27"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5f78b0f1-2364-1e04-4073-7ef0975fad96",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Track Single Detailed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bc465c72-afb0-f5a3-23f3-6ea78cf4f257"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f23cb5e5-f7ae-eeee-e455-5b47419c1ed3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Box"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f60641b1-a330-4524-9566-851900ea3924"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c1cf6f6c-97f3-a006-bbd8-8c6a6b9e774c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Coal"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "234e5dbc-b3f2-60a9-eb32-f80a8cf13407"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c5d5efa3-1e45-af34-3e68-04b2cbff8147",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Container Blue"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "db41f39e-5c4f-8724-edca-35683c108825"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "31437f94-4ce5-bfb9-eb33-3ee5ca5820eb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Container Green"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c881433b-2e60-c534-eaaa-a248d7bb8705"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1b5153c0-79eb-4f87-14bd-d821993a18e1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Container Red"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6d18e20a-7416-bf43-c8e7-b2572dc45a08"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "487d101f-da6d-5a24-df8d-71bf6c5466ce",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Dirt"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e18d21cf-4160-edbf-1c97-a1b8cf726ca2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b817bf87-f741-db9c-5904-1c76b693325d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Flatbed"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1cd884a4-ec29-a18c-4e4a-32139497fd1c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6ad3e190-2234-53e9-7d24-9d794e264b14",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Flatbed Wood"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "1128b653-7d52-8720-9c68-7f208d77dc88"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4c1feee1-22fe-1667-fb20-be46a74e8ca7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Lumber"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "39b137cb-644e-09ef-ee96-b47ef278aca8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a899d692-6dc3-10de-288e-6686afab0ae8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Tank"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "28213ce8-9a81-b311-484a-5e5291108155"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b138939a-352a-04a3-7640-9c244cbb0efc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Tank Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7683f46d-d596-f1df-bb01-a1e0a8582c90"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8f2da3ed-8f3c-6a39-adad-6772c9dba522",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Carriage Wood"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "691dc452-4bc1-b276-f3ec-792d0f78dc31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dd118025-0a00-a72a-daa6-f408c250a0aa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Connector"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3bf1d21f-678f-fcda-104e-97438970f9e9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "26eabaae-7ade-6ab2-cc6c-58b9065df1a0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Diesel 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "beed6bc5-9648-dc10-5ef3-f5a026377662"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "70859190-dab4-27ce-6d95-80998678efe8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Diesel 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2b1feb39-771e-58ef-9542-c2f186e172de"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "277457aa-1bc9-6ae2-d098-3653f23cf9b7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Diesel Box 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c55c2517-1e0d-4794-cbf0-1ebbc42da101"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f1f0d848-94ac-f237-8e13-2ae9dc8e99ee",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Diesel Box 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2035c9bd-4b93-f90c-5de8-86bd1cfd5a65"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "12096cb2-e617-ca87-bcd0-94604950707a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Diesel Box 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ab570bad-168f-7181-5d77-0042c053f27e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0e68082c-92c4-2ed1-11c6-69e74df60f25",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Diesel 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "bc0dc8b5-dc83-16ae-62b9-d10ee0fdf781"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e5a2c4de-74f4-756d-6d11-813f2f502aaf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Bullet 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "27c9f18a-dd5d-98a9-fe82-6207325de476"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "17aed7c5-5384-4c6e-69e1-de45b688884e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Bullet 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5817b247-4b87-948a-eff0-3c575f64be6c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6527ef3f-fd44-a916-743d-b7cc4a7a1c0a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Bullet 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ca63298c-82ca-2a01-7790-ec9af79f99fb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e92c581d-55ce-f4cb-9851-a69c64afa8cf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric City 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b42ed074-7b88-90b5-9456-1c2ca5635f5e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "966b60fe-93b7-3af5-1eea-a6cc08599797",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric City 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6a7b5566-0a08-0db1-a633-12caf50ddfc9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9a8b0c13-1ba0-480f-0e9c-faefafbff501",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric City 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "09ad94fc-9711-457e-cb89-6549a52ff23e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "562e6114-0b76-9757-65f1-13847fc9ea63",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Double 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2676fee6-5897-1346-68f4-4b13d58b21af"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "86b238bc-74ca-1bf2-6929-95dfe1d84cd7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Double 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "52a5a812-1770-f3a0-d0c6-7f538414df22"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "325910c3-6876-62d7-de50-bb39d901f6c7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Double 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "d333e2bb-78d5-fd86-7df5-cd43de66a19f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "385f8df8-3707-2c84-61b8-c14bd518083b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Square 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "07d17a6e-613b-0455-e295-7ad27f21a785"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "880f8d49-7235-b774-20b8-c796ccc49a75",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Square 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "429c5a9a-1c9e-0364-0ee0-8d0415bc0d65"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8f709b5e-e2e7-b4af-58d3-1e7335035d45",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Square 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5cf0a787-e3f9-28ad-079f-c1e94c18b1b4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "06cf8b1d-764d-5fa5-d67f-20fd191ce99a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Subway 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c02737e6-a7a8-27e4-9c33-fa13a92ab5e4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6feb03f4-aa06-a190-4f66-53d9f2d71ee0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Subway 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7ff7faf4-bdb3-609e-4bc8-534caf79d5e0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a015256d-d3db-489c-7e78-fd12d9de69a3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Electric Subway 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "748b9315-47f2-55c3-171f-088ff6c56022"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4a72e70a-f20e-0925-10a1-9143b4bb9287",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Locomotive 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "795a55bb-1ffc-0887-8b1a-a16b6eb47f4f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c67cfba8-69a7-cab4-76a8-a250bde7d7c9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Locomotive 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6550eb90-10c1-6298-b827-81d5cb4c3e8e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "bb004dbb-abfa-a32b-899c-f8426b696e26",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Locomotive 3"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e673aa05-2e0e-67e2-0a48-0acb46798ceb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "44e36c09-0353-9f02-b0db-777bbb21e2e0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Locomotive Passenger 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8d4eb81e-d4c9-5345-a792-85b06f71682f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "caa0f17b-3644-5dec-3766-85227bfc3335",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Locomotive Passenger 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "75ddda1a-725a-c07f-810d-2c9d685ae121"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "f3f23f68-a94f-8fe2-9b36-25d7743e6b5b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Tram Classic"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "37a5d92f-d1e8-33dd-3314-6b4352969d24"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5ac1aa75-a0e8-9984-46b7-e48d92c6e6bc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Tram Modern"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "95628206-a4b8-9105-9873-30e623d29776"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "303d801a-c7b4-d141-a213-e12cafa5576e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Tram Round"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "181659f1-cdd5-1c97-fecb-50ac10c43ad7"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "8661995d-dca4-c262-87cf-0b4beada424c"
+    },
+    "dependencies": [
+        "db8ac13d-1248-0614-c612-17a35b9e5a37",
+        "23e27dd4-2d86-e106-9a9a-9843efdcebec",
+        "91e657a3-acc4-6706-5d59-b2120527d8b4",
+        "ea9046ea-0915-b871-23bb-170fdbb27d35",
+        "c0d20414-ebad-37d0-14b9-3dcea0af7b27",
+        "bc465c72-afb0-f5a3-23f3-6ea78cf4f257",
+        "f60641b1-a330-4524-9566-851900ea3924",
+        "234e5dbc-b3f2-60a9-eb32-f80a8cf13407",
+        "db41f39e-5c4f-8724-edca-35683c108825",
+        "c881433b-2e60-c534-eaaa-a248d7bb8705",
+        "6d18e20a-7416-bf43-c8e7-b2572dc45a08",
+        "e18d21cf-4160-edbf-1c97-a1b8cf726ca2",
+        "1cd884a4-ec29-a18c-4e4a-32139497fd1c",
+        "1128b653-7d52-8720-9c68-7f208d77dc88",
+        "39b137cb-644e-09ef-ee96-b47ef278aca8",
+        "28213ce8-9a81-b311-484a-5e5291108155",
+        "7683f46d-d596-f1df-bb01-a1e0a8582c90",
+        "691dc452-4bc1-b276-f3ec-792d0f78dc31",
+        "3bf1d21f-678f-fcda-104e-97438970f9e9",
+        "beed6bc5-9648-dc10-5ef3-f5a026377662",
+        "2b1feb39-771e-58ef-9542-c2f186e172de",
+        "c55c2517-1e0d-4794-cbf0-1ebbc42da101",
+        "2035c9bd-4b93-f90c-5de8-86bd1cfd5a65",
+        "ab570bad-168f-7181-5d77-0042c053f27e",
+        "bc0dc8b5-dc83-16ae-62b9-d10ee0fdf781",
+        "27c9f18a-dd5d-98a9-fe82-6207325de476",
+        "5817b247-4b87-948a-eff0-3c575f64be6c",
+        "ca63298c-82ca-2a01-7790-ec9af79f99fb",
+        "b42ed074-7b88-90b5-9456-1c2ca5635f5e",
+        "6a7b5566-0a08-0db1-a633-12caf50ddfc9",
+        "09ad94fc-9711-457e-cb89-6549a52ff23e",
+        "2676fee6-5897-1346-68f4-4b13d58b21af",
+        "52a5a812-1770-f3a0-d0c6-7f538414df22",
+        "d333e2bb-78d5-fd86-7df5-cd43de66a19f",
+        "07d17a6e-613b-0455-e295-7ad27f21a785",
+        "429c5a9a-1c9e-0364-0ee0-8d0415bc0d65",
+        "5cf0a787-e3f9-28ad-079f-c1e94c18b1b4",
+        "c02737e6-a7a8-27e4-9c33-fa13a92ab5e4",
+        "7ff7faf4-bdb3-609e-4bc8-534caf79d5e0",
+        "748b9315-47f2-55c3-171f-088ff6c56022",
+        "795a55bb-1ffc-0887-8b1a-a16b6eb47f4f",
+        "6550eb90-10c1-6298-b827-81d5cb4c3e8e",
+        "e673aa05-2e0e-67e2-0a48-0acb46798ceb",
+        "8d4eb81e-d4c9-5345-a792-85b06f71682f",
+        "75ddda1a-725a-c07f-810d-2c9d685ae121",
+        "37a5d92f-d1e8-33dd-3314-6b4352969d24",
+        "95628206-a4b8-9105-9873-30e623d29776",
+        "181659f1-cdd5-1c97-fecb-50ac10c43ad7"
+    ]
+}
